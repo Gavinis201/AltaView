@@ -1,0 +1,3424 @@
+
+ >>>>>>> Final output for americanAirlines10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "increased impacts of severe weather events, including flooding and sea level rise",
+    "extreme heat, longer-term changes in weather patterns, and climate-related events affecting operations, infrastructure, financial results, safety, team members, and revenue"
+  ],
+  "ghg_emissions": [
+    "GHG emissions, net zero by 2050, 50% reduction, Scope 1 emissions of carbon dioxide and methane",
+    "direct GHG emissions from jet fuel, fuel-efficient operation, more fuel-efficient aircraft, low-carbon fuels, replacing older, less fuel-efficient aircraft with new, more efficient aircraft, scaling the production of sustainable aviation fuel (SAF)",
+    "agreements to purchase SAF for 10% of conventional jet fuel by 2030",
+    "emission reductions through CORSIA and other emissions trading schemes"
+  ],
+  "targets_and_goals": [
+    "net zero GHG emissions by 2050, 50% reduction in emissions",
+    "2035 GHG reduction target, 6% in 2030, 22% in 2040, 35% in 2050",
+    "SAF and low- and no-carbon fuel sources as part of emission reduction goals"
+  ],
+  "governance": [
+    "Climate Committee with board oversight, $50M climate investment, carbon pricing, 2.5 million metric tons CO2e",
+    "board oversight for climate strategy, safety objectives, FAA-approved safety management systems (SMS), four components: Safety Assurance, Risk Management, Promotion, and Policy"
+  ],
+  "strategy_and_risk_management": [
+    "climate change strategy, key risks, safety objectives, SMS components, regulatory requirements, operating environment, training, awareness",
+    "risk controls for weather-related events, natural disasters, fuel price increases, aircraft fuel availability, cost volatility, terrorism, political disruptions, oil-producing countries, global trade routes, economic sanctions, governmental policy, U.S. dollar strength, transportation costs, petroleum product shortages, energy futures markets, refinery interruptions"
+  ],
+  "financial_impact": [
+    "increases in costs related to meeting climate goals, migration to increased use of SAF, adverse weather and natural disasters with frequency, severity, and duration",
+    "downturns in economic conditions, military actions, terrorism, disease outbreaks, demand for air travel, cost of fuel, maintenance, aircraft, engines, parts"
+  ]
+}
+```
+ >>>>>>> Final output for americanExpress10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "Climate-related financial risks, including negative impact on spending, demand for products, increase in delinquencies and write-off rates, personal discretionary spending levels, economic downturns, small business and corporate clients, 42 percent of worldwide billed business, economic environment, new business formation, negative circumstances, customer types, geographies, geopolitical conditions, terrorist attacks, military conflicts, supply chain issues, natural disasters, severe weather, widespread health emergencies, pandemics, information or cybersecurity incidents, cyberattacks, operational incidents, catastrophic events, material adverse effect, political and social conditions, geopolitical instability, regional instability, increased prevalence and sophistication of cyberattacks, potential retaliatory action, further sanctions activity, related regulatory scrutiny, increased inflation, further increases or fluctuations in commodity and energy prices, decreases in global travel, disruptions to the global supply chain, hurricanes, wildfires, other natural disasters, frequency and severity of weather-related events, Card Members in California, Florida, New York, Texas, Georgia and New Jersey"
+  ],
+  "ghg_emissions": [
+    "flooding, sea level rise, extreme heat, Scope 1 emissions, carbon dioxide, methane, net zero by 2050, 50% reduction, Climate Committee, board oversight, $50M climate investment, carbon pricing, 2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050, 50% reduction in emissions"
+  ],
+  "governance": [
+    "Climate Committee, board oversight, $50M climate investment, carbon pricing, 2.5 million metric tons CO2e"
+  ],
+  "strategy_and_risk_management": [
+    "flooding, sea level rise, extreme heat, Scope 1 emissions, carbon dioxide, methane, net zero by 2050, 50% reduction, Climate Committee, board oversight, $50M climate investment, carbon pricing, 2.5 million metric tons CO2e"
+  ],
+  "financial_impact": [
+    "negative impact on spending, demand for products, increase in delinquencies and write-off rates, personal discretionary spending levels, economic downturns, small business and corporate clients, 42 percent of worldwide billed business, economic environment, new business formation, negative circumstances, customer types, geographies, geopolitical conditions, terrorist attacks, military conflicts, supply chain issues, natural disasters, severe weather, widespread health emergencies, pandemics, information or cybersecurity incidents, cyberattacks, operational incidents, catastrophic events, material adverse effect, political and social conditions, regional instability, increased prevalence and sophistication of cyberattacks, potential retaliatory action, further sanctions activity, related regulatory scrutiny, increased inflation, further increases or fluctuations in commodity and energy prices, decreases in global travel, disruptions to the global supply chain, hurricanes, wildfires, other natural disasters, frequency and severity of weather-related events, Card Members in California, Florida, New York, Texas, Georgia and New Jersey"
+  ]
+}
+ >>>>>>> Final output for apple10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["natural disasters", "public health issues", "industrial accidents", "business interruptions", "political events", "trade disputes", "geopolitical tensions", "conflict", "terrorism", "earthquakes", "global climate change", "extreme weather", "fire", "power shortages", "nuclear power plant accidents", "cybersecurity attacks", "labor disputes", "supply chains"],
+  "ghg_emissions": ["greenhouse gas emissions"],
+  "targets_and_goals": ["announced environmental, social and governance goals"],
+  "governance": ["environmental, social and governance considerations", "potential liabilities", "increased costs", "reputational harm", "human and civil rights", "diversity, equity and inclusion", "non-financial reports", "website", "press statements", "third-party performance", "outside the Company’s control"],
+  "strategy_and_risk_management": ["climate change", "manufacture and deliver products", "supply and manufacturing chain", "service offerings", "costs", "consumer spending", "demand", "industrial accidents at its suppliers and contract manufacturers", "information technology system failures", "network disruptions", "power disruptions", "telecommunications failures", "acts of terrorism or war", "computer viruses", "physical or electronic break-ins"],
+  "financial_impact": ["materially adversely affect"]
+}
+ >>>>>>> Final output for archerDanielMidland10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "deforestation",
+    "high-carbon-value landscapes",
+    "water quality impairment",
+    "erosion",
+    "soil degradation",
+    "business disruption",
+    "operational Risks",
+    "equipment failure",
+    "raw material shortages",
+    "natural disasters",
+    "severe weather conditions",
+    "accidents",
+    "explosions",
+    "fires",
+    "unexpected outages",
+    "liability",
+    "transportation services",
+    "navigable rivers",
+    "waterways",
+    "non-agricultural commodity raw materials",
+    "water",
+    "chemicals",
+    "processing operations"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "50% reduction",
+    "2.5 million metric tons CO2e",
+    "Scope 2 greenhouse gas (GHG) emissions",
+    "Scope 3 GHG emissions",
+    "low-carbon energy sources",
+    "absolute water withdrawal",
+    "landfill diversion rate",
+    "carbon capture and sequestration",
+    "deforestation regulations",
+    "European Union (EU) deforestation-free regulation",
+    "Brazil's Amazon soy moratorium",
+    "December 2024",
+    "soybeans",
+    "palm oil",
+    "civil penalties",
+    "administrative penalties",
+    "criminal penalties"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "$50M climate investment",
+    "carbon pricing programs",
+    "Zero Hunger",
+    "Clean Water and Sanitation",
+    "Decent Work and Economic Growth",
+    "Climate Action",
+    "Life On Land",
+    "Sustainability and Technology Committee",
+    "board oversight",
+    "sustainability laws",
+    "industry benchmarks",
+    "Chief Sustainability Officer",
+    "Senior Vice President of Global Operations",
+    "Chief",
+    "25% reduction Scope 1 and 2 emissions from a 2019 baseline",
+    "25% reduction Scope 3 emissions from a 2021 baseline",
+    "25% low-carbon energy sources of total energy used",
+    "10% absolute water withdrawal reduction",
+    "90% landfill diversion rate",
+    "Strive 35 plan"
+  ],
+  "governance": [
+    "Climate Committee",
+    "board oversight",
+    "Sustainability and Technology Committee",
+    "board oversight",
+    "Chief Sustainability Officer",
+    "Senior Vice President of Global Operations",
+    "Chief",
+    "carbon pricing programs",
+    "negative publicity",
+    "financial performance",
+    "financial condition",
+    "employee turnover"
+  ],
+  "strategy_and_risk_management": [
+    "regenerative agriculture acres",
+    "regenerative agricultural practices",
+    "one million acres",
+    "2.8 million acres",
+    "18 U.S. states and Canada",
+    "Europe",
+    "carbon emission regulations",
+    "negative publicity",
+    "financial performance",
+    "financial condition",
+    "employee turnover",
+    "additional legislation",
+    "regulations or agreements",
+    "increased energy costs",
+    "transportation costs",
+    "raw material costs",
+    "administrative costs",
+    "Company to make additional investments in its facilities and equipment"
+  ],
+  "financial_impact": [
+    "total global warming",
+    "1.5°C threshold",
+    "GHG emission goals",
+    "water reuse goals",
+    "climate investment",
+    "Producer Tax Credit policy change",
+    "Deforestation Regulation requirements",
+    "low carbon intensity feedstock",
+    "Producers Tax Credit policy transition",
+    "starches and sweeteners",
+    "ethanol",
+    "alternative proteins",
+    "food, beverage, and dietary supplement categories",
+    "amino acids market",
+    "feed market"
+  ]
+}
+```
+ >>>>>>> Final output for atandt10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "severe weather conditions, including storms, floods, hurricanes, freezing conditions, fires, and forest fires",
+    "increased frequency and severity of extreme weather events, such as storms, floods, hurricanes, and fires",
+    "damage to network infrastructure due to physical effects of climate change",
+    "changes in federal, state and foreign government regulation related to climate change",
+    "potential adverse impact on financial results from increased costs, loss of revenue, and damage to infrastructure"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions including carbon dioxide",
+    "50% reduction target for Scope 1 emissions",
+    "net zero by 2050 goal",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "50% reduction target for Scope 1 emissions"
+  ],
+  "governance": [
+    "Climate Committee with board oversight",
+    "$50M climate investment",
+    "carbon pricing"
+  ],
+  "strategy_and_risk_management": [
+    "precautionary measures and voluntary commitments to address climate risks",
+    "board of directors and audit committee oversight for strategic decisions, including climate-related initiatives"
+  ],
+  "financial_impact": [
+    "potential adverse impact on financial results from increased costs, loss of revenue, and damage to infrastructure"
+  ]
+}
+ >>>>>>> Final output for bankOfAmerica10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "acute and/or chronic extreme weather events",
+    "natural disasters",
+    "widespread health emergencies or pandemics",
+    "military conflicts",
+    "terrorism",
+    "geopolitical events",
+    "market fluctuations",
+    "margin requirements",
+    "liquidity",
+    "net interest income",
+    "noninterest income",
+    "results of operations",
+    "financial condition",
+    "capital and liquidity levels",
+    "elevated inflation",
+    "interest rate levels",
+    "monetary tightening by central banks",
+    "Russia/Ukraine conflict",
+    "conflicts in the Middle East",
+    "macroeconomic conditions",
+    "market volatility",
+    "disruptions",
+    "recessionary risk",
+    "fiscal policies",
+    "interest rate volatility",
+    "governments’ fiscal policies",
+    "adverse economic outcomes",
+    "climate change",
+    "physical impacts of climate change",
+    "extreme weather events",
+    "hurricanes",
+    "floods",
+    "chronic longer-term shifts",
+    "rising average global temperatures",
+    "sea levels",
+    "transition and physical impacts of climate change",
+    "environmental goals and targets",
+    "sustainability strategy",
+    "uncertain or changing political conditions",
+    "federal government shutdown",
+    "debt limit",
+    "widespread health emergencies",
+    "pandemics",
+    "natural disasters",
+    "extreme weather events",
+    "military conflicts",
+    "Russia/Ukraine conflict",
+    "conflicts in the Middle East",
+    "geopolitical consequences",
+    "terrorism",
+    "other geopolitical events"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "net zero by 2050",
+    "50% reduction",
+    "Climate Committee",
+    "board oversight",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "50% reduction",
+    "greenhouse gas (GHG) emissions targets by 2030"
+  ],
+  "governance": [
+    "Climate Committee",
+    "board oversight",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e"
+  ],
+  "strategy_and_risk_management": [
+    "Climate Risk Management",
+    "Physical Risk",
+    "Transition Risk",
+    "extreme weather events",
+    "hurricanes",
+    "floods",
+    "chronic longer-term shifts",
+    "rising average global temperatures",
+    "sea levels",
+    "Risk Appetite Statement",
+    "climate-related policies",
+    "Climate Committee",
+    "board oversight",
+    "net zero by 2050"
+  ],
+  "financial_impact": [
+    "acute and/or chronic extreme weather events",
+    "natural disasters",
+    "widespread health emergencies or pandemics",
+    "market fluctuations",
+    "margin requirements",
+    "liquidity",
+    "net interest income",
+    "noninterest income",
+    "results of operations",
+    "financial condition",
+    "capital and liquidity levels",
+    "elevated inflation",
+    "interest rate levels",
+    "monetary tightening by central banks",
+    "Russia/Ukraine conflict",
+    "conflicts in the Middle East",
+    "macroeconomic conditions",
+    "market volatility",
+    "disruptions",
+    "recessionary risk",
+    "fiscal policies",
+    "interest rate volatility",
+    "governments’ fiscal policies",
+    "adverse economic outcomes",
+    "climate change",
+    "physical impacts of climate change",
+    "extreme weather events",
+    "hurricanes",
+    "floods",
+    "chronic longer-term shifts",
+    "rising average global temperatures",
+    "sea levels",
+    "transition and physical impacts of climate change",
+    "environmental goals and targets",
+    "sustainability strategy",
+    "uncertain or changing political conditions",
+    "federal government shutdown",
+    "debt limit",
+    "widespread health emergencies",
+    "pandemics",
+    "natural disasters",
+    "extreme weather events",
+    "military conflicts",
+    "Russia/Ukraine conflict",
+    "conflicts in the Middle East",
+    "geopolitical consequences",
+    "terrorism",
+    "other geopolitical events"
+  ]
+}
+```
+ >>>>>>> Final output for berkshireHathaway10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "flooding, sea level rise, extreme heat",
+    "physical risks from climate and weather-related events including hurricanes, floods, wildfires, storms",
+    "catastrophic events such as earthquakes, hurricanes, geopolitical conflict, acts of terrorism, cyber-attacks, epidemics, pandemics, outbreaks",
+    "severe weather events, natural conditions that could materially impact business strategy, results of operations, financial condition"
+  ],
+  "ghg_emissions": [
+    "GHG emissions, 30% reduction by 2030, 80% reduction by mid-century",
+    "reductions in emissions, Paris Agreement commitments including a 26% to 28% reduction from 2005 levels by 2025, 50% to 52% reduction by 2030, 100% carbon pollution-free electricity by 2035",
+    "GHG emissions in the power sector with an emission limit of 40% annual capacity factor and coal units to be phased out by December 31, 2038",
+    "methane emissions reduction standards for the oil and natural gas industry",
+    "GHG emissions from electricity generation sources including renewable generation and storage, $35.4 billion cumulative investments by December 31, 2024"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050 with a 50% reduction in GHG emissions",
+    "reductions in emissions from direct operations and supply chain",
+    "climate neutrality by mid-century",
+    "Paris Agreement commitments including a 26% to 28% reduction from 2005 levels by 2025, 50% to 52% reduction by 2030, 100% carbon pollution-free electricity by 2035"
+  ],
+  "governance": [
+    "Climate Committee with board oversight and $50M climate investment",
+    "carbon pricing initiatives",
+    "compliance with environmental regulations including the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA)",
+    "reputational damage from GHG emissions and climate-related risks"
+  ],
+  "strategy_and_risk_management": [
+    "strategies to manage physical and reputational risks related to climate change, including monitoring, assessing, and pricing risk",
+    "risk-transfer strategies for catastrophic events and natural disasters",
+    "disciplined underwriting practices to mitigate potential losses from insured events"
+  ],
+  "financial_impact": [
+    "$15 billion in significant property catastrophe loss events including Hurricanes Helene and Milton, $725 million, $2.4 billion after-tax losses",
+    "Wildfires causing pre-tax losses of approximately $1.3 billion with changes in estimates for unpaid losses and loss adjustment expenses",
+    "financial impact from severe weather events, natural conditions, and climate-related risks including property taxes, insurance expenses, and general and plant maintenance costs"
+  ]
+}
+```
+ >>>>>>> Final output for boeing10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "physical and transition risks associated with climate change",
+    "flooding, sea level rise, extreme heat"
+  ],
+  "ghg_emissions": [
+    "greenhouse gas emissions (Scope 1: carbon dioxide, methane)",
+    "50% reduction target",
+    "net zero by 2050 goal"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "$50M climate investment",
+    "50% reduction in greenhouse gas emissions"
+  ],
+  "governance": [
+    "board oversight through Climate Committee",
+    "compliance status, environmental laws, regulations, investigations, remediation, operation and maintenance costs, sites, contracts with the U.S. government",
+    "material impact on results of operations, financial condition or cash flows, legal proceedings, inquiries, environmental contingencies"
+  ],
+  "strategy_and_risk_management": [
+    "emerging ESG regulation, contractual requirements, policy requirements, operational restrictions, compliance requirements, new or additional investments in production systems or product designs, carbon offset investments",
+    "physical impacts of climate change, global chemical restrictions, bans, water and waste requirements, increased costs, production continuity, data facilities, sustainability priorities, goals and commitments"
+  ],
+  "financial_impact": [
+    "material impact on financial position, results of operations, cash flows, legal proceedings, inquiries, environmental liabilities, U.S. federal, state, local, non-U.S. laws, regulations",
+    "substantial costs, cleanup costs, fines, civil sanctions, criminal sanctions, third-party claims, property damage, personal injury"
+  ]
+}
+ >>>>>>> Final output for bristolMyersSquibb10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["climate change", "carbon dioxide", "greenhouse gas emissions"],
+  "ghg_emissions": [],
+  "targets_and_goals": ["net zero by 2050", "50% reduction"],
+  "governance": ["sustainability", "human rights", "inclusion", "diversity matters"],
+  "strategy_and_risk_management": ["natural disasters", "global disease outbreaks", "acts of war or terrorism", "unforeseeable or unavoidable events", "manufacturing processes", "CAR-T cell therapies", "raw materials and supplies", "consistent and reliable manufacturing processes", "distribution networks", "cost of goods", "sourcing raw materials", "clinical and commercial manufacturing", "logistical and shipment delays", "patient material", "complex chain of identity and custody"],
+  "financial_impact": ["carbon taxes", "emissions trading schemes", "significant expenditures", "investigation and remediation", "15 current or former facilities", "PRP", "approximately 20 former waste disposal or reprocessing facilities", "natural resource damages", "remediation responsibility", "civil or criminal fines", "penalties", "litigation", "legal expenses", "assurance costs"]
+}
+ >>>>>>> Final output for broadcom10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "Manufacturing facilities, research and development facilities, warehouses, significant operations, outsourced manufacturing business model in Fort Collins, Colorado, Singapore, Breinigsville, Pennsylvania, are at risk due to climate change, seismic activity, severe weather activity, natural disasters, geographic regions including California, Pacific Rim, Czech Republic, India, Israel, U.S., and Malaysia.",
+    "Climate change, water shortages, political unrest, military conflicts, geopolitical turmoil, trade tensions, government orders, labor shortages, medical epidemics, economic instability, equipment failure pose material adverse effects."
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions of carbon dioxide amount to 2.5 million metric tons CO2e.",
+    "Net zero by 2050 target with a 50% reduction in Scope 1 emissions."
+  ],
+  "targets_and_goals": [
+    "Net zero by 2050, $50M climate investment, carbon pricing."
+  ],
+  "governance": [
+    "Climate Committee with board oversight for ESG matters."
+  ],
+  "strategy_and_risk_management": [],
+  "financial_impact": [
+    "Potential enforcement actions including fines, decreased customer demand, loss of investors, reputation damage, revenue impact, results of operations, ESG-related initiatives, litigation, conflict minerals sourcing issues, availability and pricing concerns, customers’ demands, sales impacts, operating results, compliance challenges, technical standards, domestic and international laws, materials composition, use, disposal, clean-up, human exposure risks."
+  ]
+}
+ >>>>>>> Final output for capitalOne10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["flooding", "sea level rise", "extreme heat", "higher average temperatures", "hurricanes", "wildfires", "physical risks", "transition risks", "acute shifts", "chronic shifts", "financial losses", "disrupt our operations", "supply chain disruption", "market volatility", "changes in policy", "consumer and business sentiment", "technologies", "limiting climate change", "increased expenses", "credit performance"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction", "$50M climate investment"],
+  "governance": ["Climate Committee", "board oversight", "reputational risk", "policies, practices, disclosures and decisions related to climate change and the environment", "stakeholders", "response to climate change"],
+  "strategy_and_risk_management": ["climate-related financial risk management", "physical or transition risks", "climate change manifesting as physical or transition risks", "Risk Factors", "regulation by Authorities Outside the United States", "U.K.", "Financial Conduct Authority (“FCA”)", "Federal Reserve", "Regulation K", "agreement corporation", "authorized payment institution", "Capital One Global Corporation", "Credit card business", "Office of the Superintendent of Financial Institutions (“OSFI”)", "Financial Consumer Agency of Canada (“FCAC”)", "authorized foreign bank", "reputational risk", "customers", "financial performance", "increased costs", "disruptions", "hybrid work model", "operate effectively", "maintain corporate culture", "operational infrastructure", "resiliency", "security", "disruptions to our systems or networks", "events beyond our control", "computer viruses", "telecommunications", "network outages", "bugs", "errors", "insider threats", "design flaws", "cyber-attacks", "security incidents", "natural disasters", "damage to property", "physical assets", "civil unrest", "terrorist acts", "military conflict"],
+  "financial_impact": ["$100 billion in total consolidated assets", "$100 billion"]
+}
+ >>>>>>> Final output for cardinalHealth10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "extreme weather events, wildfires, hurricanes, extreme temperatures, natural disasters, pandemics, supply chain disruptions, power outages, cybersecurity incidents, ransomware, labor strikes, political unrest, terrorist attacks",
+    "public health crises, extreme weather-related events, natural disasters, geopolitical events, catastrophic events, weather-related impacts, physical damage, increased costs for repairs, disruptions in operations, social and human effects, population shifts, increased costs for critical services"
+  ],
+  "ghg_emissions": [
+    "greenhouse gas emissions, lower greenhouse gas emissions technology, reduce emissions",
+    "carbon pricing mechanisms"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050"
+  ],
+  "governance": [
+    "comply with applicable rules or regulations, alleged violations, civil or criminal penalties, regulatory enforcement actions, lawsuits, monetary damages, termination of government contracts, suspension or debarment from government contract work, global operations, U.S. Foreign Corrupt Practices Act, U.K. Bribery Act"
+  ],
+  "strategy_and_risk_management": [
+    "modifying manufacturing, distribution, or replenishment facilities, state environmental regulators, regulatory actions, alleged violations, civil or criminal penalties, lawsuits, costs for remediation, harm to reputation, supply shortages, industry-wide reduction in surgical or medical procedures, negative impact on demand, EtO emissions, modifying manufacturing, distribution, or replenishment facilities"
+  ],
+  "financial_impact": [
+    "adverse impact on results of operations, reduced emissions standards, increased costs to comply, supply shortages, industry supply disruptions, government contracts, procurement requirements, customer or consumer preference towards low-carbon products and services, physical risks, transitional risks, competitive position, financial condition, excess costs, negative impact on capital markets"
+  ]
+}
+ >>>>>>> Final output for caterpillar10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "flooding, sea level rise, major earthquake, fire, tsunami, weather event, power loss, telecommunications failure, software or hardware malfunctions, pandemics, cyber-attack, war, terrorist attack",
+    "work stoppage, production limitations, strike, work force unionization, cost of doing business, civil unrest, fires, tornadoes, tsunamis, hurricanes, earthquakes, floods, severe weather, natural disasters, pandemic illness, equipment failures, power outages"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions: carbon dioxide, methane",
+    "net zero by 2050, 50% reduction in emissions",
+    "greenhouse gas emissions, climate change concerns, additional costs, restrictions, increased energy and raw materials costs, operational restrictions"
+  ],
+  "targets_and_goals": [
+    "$50M climate investment, carbon pricing, Climate Committee, board oversight"
+  ],
+  "governance": [
+    "Climate Committee, board oversight"
+  ],
+  "strategy_and_risk_management": [],
+  "financial_impact": [
+    "decreased demand, preventative maintenance, overhauls, infrastructure spending, commercial construction, housing starts",
+    "reputation, travel bans, restrictions, quarantines, shelter in place orders, shutdowns"
+  ]
+}
+ >>>>>>> Final output for cencora10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["flooding", "epidemic", "pandemic", "earthquakes", "severe weather"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction"],
+  "governance": ["Climate Committee", "board oversight"],
+  "strategy_and_risk_management": [],
+  "financial_impact": ["$50M climate investment"]
+}
+ >>>>>>> Final output for centene10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["natural disasters", "climate change", "extreme heat", "operational disruptions", "loss of existing members and providers", "difficulty in attracting new members and providers", "complaints", "regulatory problems", "increases in administrative expenses", "earthquakes", "fires", "acts of wars", "aggression", "terrorism", "cyber-attacks", "data security incidents"],
+  "ghg_emissions": ["50% reduction", "net zero by 2050"],
+  "targets_and_goals": [],
+  "governance": ["Climate Committee", "board oversight"],
+  "strategy_and_risk_management": ["carbon pricing"],
+  "financial_impact": []
+}
+ >>>>>>> Final output for charterCommunications10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["extreme weather", "power outages", "telecommunications failures", "natural disasters", "terrorist attacks", "disaster recovery planning", "network redundancy"]
+}
+ >>>>>>> Final output for chevron10K.pdf <<<<<<<< 
+
+Based on the provided context, here are some key points and insights related to Chevron's climate-related initiatives and challenges:
+
+### Climate-Related Initiatives
+
+1. **Net Zero Ambitions**:
+   - **2050 Net Zero Goal**: Chevron aims for net-zero emissions from its upstream operations by 2050.
+   - **Emission Targets**: Specific targets include reducing oil production GHG intensity to 24 kg CO2e/boe and gas production GHG intensity to 24 kg CO2e/boe, with methane intensity of 2 kg CO2e/boe by 2030.
+   - **Lower Carbon Investments**: Planned capital spend of approximately $10 billion through 2028 in lower carbon investments.
+
+2. **Carbon Capture and Storage (CCS)**:
+   - CCS is a key technology for reducing emissions, with projects like the Future Growth Project focusing on carbon capture and storage.
+
+3. **Renewable Fuels**:
+   - Investments in renewable fuels, including hydrogen production and REG acquisition.
+   - Lower-carbon business lines are being developed to support the transition to a lower carbon future.
+
+4. **Midstream Infrastructure**:
+   - Projects like the $500 million Future Energy Fund III focus on technology-based solutions for affordable, reliable, and lower carbon energy.
+
+### Climate-Related Challenges
+
+1. **Legal Risks**:
+   - Facing 32 separate lawsuits in four U.S. states related to climate change.
+   - Lawsuits include claims of public nuisance, private nuisance, failure to warn, fraud, conspiracy to commit fraud, design defect, product defect, trespass, negligence, and more.
+
+2. **Regulatory Compliance**:
+   - Increasingly restrictive environmental regulations, including hydraulic fracturing laws.
+   - Costs associated with compliance, additional investments in technology, and increased operating costs due to regulatory requirements.
+
+3. **Asset Impairment**:
+   - Proved reserves may be impaired if future undiscounted cash flows are lower than the carrying value of assets.
+   - Carbon costs could impact asset values and financial performance.
+
+4. **Environmental Remediation**:
+   - Before-tax environmental remediation reserves in Louisiana highlight ongoing challenges with pollution and cleanup efforts.
+
+### Financial Implications
+
+1. **Earnings Volatility**:
+   - Climate-related policies and regulations can lead to earnings volatility.
+   - The effective tax rate, absolute level of earnings or losses, and tax rate jurisdictions are factors that could impact financial performance.
+
+2. **Taxation**:
+   - Model rules for a 15 percent global minimum tax (Pillar Two) could affect the organization's tax strategy and overall profitability.
+
+### Key Stakeholders
+
+- **Climate Committee**: Oversees climate-related initiatives, risk management, and compliance.
+- **Board of Directors**: Provides oversight on climate-related matters.
+- **Executive Committee**: Manages lower carbon investments and business lines.
+- **Segment Managers**: Responsible for specific projects and initiatives related to the transition to a lower carbon future.
+
+### Summary
+
+Chevron is actively working towards its net-zero emissions goal by 2050 through various initiatives, including investments in renewable fuels, carbon capture and storage technologies, and midstream infrastructure. However, these efforts come with significant legal, regulatory, and financial challenges. The company must navigate complex litigation, stringent regulations, and potential asset impairments while managing the transition to a lower-carbon future.
+ >>>>>>> Final output for cigna10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "acts of civil unrest, war, terrorism, ongoing conflict in the Middle East, political and economic conflicts, imposition of economic or political sanctions",
+    "increasing natural disasters, climate change, disruption, threat of disruption to supply chain, access to products, quality safety standards, patient needs, employees, facilities, policy changes, waiving various medical requirements"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions, Scope 2 emissions, Scope 3 emissions, greenhouse gas emissions"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050"
+  ],
+  "governance": [
+    "U.S. and foreign laws prohibiting bribery, corruption and money laundering"
+  ],
+  "strategy_and_risk_management": [],
+  "financial_impact": []
+}
+ >>>>>>> Final output for ciscoSystems10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "natural disasters including earthquakes, floods, wildfires, storms, sea-level rise, and changing precipitation",
+    "public health emergencies, geopolitical tensions, China-Taiwan relations, increasing tariffs, trade tensions, significant natural disaster, and price of one or more components",
+    "government-related disruptions, economic instability, environmental protection regulations, climate change, tariffs, legal and regulatory requirements, pandemics, and epidemics",
+    "earthquakes, floods, natural catastrophic events, global climate change, seismic activity, rivers, flooding, weather-related activity, supply chain components, products, drought, wildfires, storms, sea-level rise, changing precipitation",
+    "natural disasters, drought, wildfires, storms, sea-level rise, changing precipitation, flooding, material event, terrorism, war, Russia-Ukraine war, Middle East conflicts and wars, economic sanctions, trade restrictions, loss of infrastructure, utilities services, energy, transportation, telecommunications"
+  ],
+  "ghg_emissions": [
+    "carbon emissions",
+    "Scope 1 emissions, carbon dioxide",
+    "net zero by 2040, net zero across all scopes of greenhouse gas emissions by 2040, enhanced power efficiency of our products, renewable energy at customer and supplier sites, adoption of certain of our products and services by our customers"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "net zero across all scopes of greenhouse gas emissions by 2040, enhanced power efficiency of our products, renewable energy at customer and supplier sites, adoption of certain of our products and services by our customers"
+  ],
+  "governance": [
+    "government-related disruptions, economic instability, environmental protection regulations, climate change, tariffs, legal and regulatory requirements, pandemics, epidemics",
+    "natural disasters, drought, wildfires, storms, sea-level rise, changing precipitation, flooding, material event, terrorism, war, Russia-Ukraine war, Middle East conflicts and wars, economic sanctions, trade restrictions, loss of infrastructure, utilities services, energy, transportation, telecommunications"
+  ],
+  "strategy_and_risk_management": [
+    "climate change, operational resilience, environmental sustainability",
+    "government-related disruptions, geopolitical tensions, political or social unrest, economic instability, natural disasters, environmental protection regulations, climate change, tariffs, legal and regulatory requirements, pandemics, epidemics",
+    "earthquakes, floods, natural catastrophic events, global climate change, seismic activity, rivers, flooding, weather-related activity, supply chain components, products, drought, wildfires, storms, sea-level rise, changing precipitation"
+  ],
+  "financial_impact": [
+    "price of one or more components, inflation, procurement of inventory by our contract manufacturers, cancel, reschedule, or adjust our requirements based on our business needs, decrease in demand for our products",
+    "government-related disruptions, geopolitical tensions, political or social unrest, economic instability, natural disasters, environmental protection regulations, climate change, tariffs, legal and regulatory requirements, pandemics, epidemics"
+  ]
+}
+ >>>>>>> Final output for citi10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "physical risks including wildfires, hurricanes, floods, droughts, and prolonged droughts",
+    "transition risks such as changes in regulations or market preferences toward low-carbon industries or sectors",
+    "regulatory changes, market changes, stakeholder changes, legal changes, acute risks, systemic changes to geographies, population migration",
+    "adverse financial impacts including operational impacts, destruction, damage or impairment of owned or leased properties and other assets, deterioration of the value of collateral, disruptions to business operations and supply chains, reduced availability or increase in the cost of insurance, credit risk exposures, mortgage and commercial real estate lending businesses",
+    "reputational risks affecting Citi and its clients, customers, vendors and other counterparties",
+    "climate-related disclosure requirements including increased regulatory, compliance, credit, reputational and other risks, regulatory scrutiny, reputation risks, litigation risks, climate risk, sustainability, environmental and social commitments, legal or regulatory actions, reputational harm, additional disclosure of climate-related information, lack of information, unreliable data, limited availability, estimated figures, unverified figures, time-lag, variable in quality, modeling capabilities",
+    "climate change risk factor including operational risks such as fraud or malice, insufficient straight-through processing, legacy or bespoke systems, controls, errors, operating losses, accidental system or technological failure, electrical or telecommunication outages, cyber incidents, computer servers or infrastructure, software updates, cloud services"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide and methane emissions",
+    "net zero GHG emissions associated with its financing by 2050",
+    "net zero GHG emissions for its own operations by 2030",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "Net Zero Emissions by 2050",
+    "Net Zero Plan with implementation strategy, engagement strategy and metrics and targets",
+    "Citi has published interim 2030 emissions targets for 10 loan portfolios: aluminum, auto manufacturing, aviation, cement, commercial real estate (North America), energy, power, shipping, steel and thermal coal mining, three of these targets include facilitated emissions from capital markets activities as well",
+    "50% reduction in emissions by a specific year"
+  ],
+  "governance": [
+    "Climate Committee with board oversight",
+    "Environmental and Social Risk Management (ESRM) Policy",
+    "Thermal coal mining sector-specific climate risk assessments",
+    "Scenario analysis for climate risk management",
+    "Country Risk, Top 25 Country Exposures"
+  ],
+  "strategy_and_risk_management": [
+    "Net Zero Plan with engagement strategy to assess clients and determine transition opportunities",
+    "Metrics and Targets including financed emissions metrics calculation and reporting on progress for emissions reductions targets for 2030 and beyond",
+    "Climate Risk Management Framework (Climate RMF) with governance, roles and responsibilities, principles, identification, measurement, monitoring, controlling, reporting, climate risks, credit profiles, sectors, climate risk assessments, credit underwriting process, sector-specific climate risk assessments, publicly available client disclosures, third-party providers, adaptation and mitigation, financial needs",
+    "Climate Committee for climate risk management"
+  ],
+  "financial_impact": [
+    "$50M climate investment",
+    "Net Zero Emissions by 2050 with operational footprint goals including reductions in emissions, energy security, emerging markets, affordable energy, on-site solar generation, waste diversion, recycling, carbon-efficient techniques",
+    "Concentration risk, country risk, and climate risk within the enterprise risk management (ERM) framework"
+  ]
+}
+```
+ >>>>>>> Final output for cocaCola10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "seasonality, weather conditions, adverse weather conditions, unusually cold or rainy weather, summer months, lower sales",
+    "weather-related yield reductions, flooding, sea level rise, extreme heat, hurricanes, wildfires, floods, natural disasters, citrus greening disease, agricultural uncertainty, health epidemics, pandemics, cattle disease outbreaks, labor shortages, strikes, work stoppages, new laws and regulations, governmental actions, import/export restrictions, port congestion, transport capacity constraints, cybersecurity incidents, fluctuations in foreign currency exchange rates, price volatility",
+    "unprecedented challenges, overexploitation, increasing demand for food and other consumer and industrial products, manufacturing processes require water, increasing pollution, emerging awareness of potential contaminants, poor management, lack of physical or financial access to water, sociopolitical tensions, effects of climate change, higher costs, capacity constraints, reputational damage"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions, carbon dioxide, methane",
+    "50% reduction in greenhouse gas emissions by 2030",
+    "$50M climate investment",
+    "net zero by 2050",
+    "carbon pricing"
+  ],
+  "targets_and_goals": [
+    "50% reduction in greenhouse gas emissions by 2030",
+    "net zero by 2050",
+    "$50M climate investment"
+  ],
+  "governance": [
+    "Climate Committee, board oversight",
+    "cybersecurity risk management program, multilayered, proactive approach, unauthorized access, misuse, data theft, computer viruses, system disruptions, ransomware, malicious software, intrusions, Enterprise Risk Management (ERM), cybersecurity incidents"
+  ],
+  "strategy_and_risk_management": [
+    "reduce the Coca-Cola system’s carbon footprint, increasing use of recycled packaging materials, expanding renewable energy usage, participating in environmental and sustainability programs, emission reduction goals",
+    "adverse weather conditions, demand for our products, weather conditions, unusually cold or rainy weather, summer months, lower sales, results of operations"
+  ],
+  "financial_impact": [
+    "net operating revenues, profits, equity method investments, loss of major customers, changes in or additional regulations, disruptions of bottling operations, strikes, work stoppages, labor unrest, natural disasters, international conflicts, acts of war, health epidemics, pandemics, catastrophic events, deterioration of the financial condition or results of operations",
+    "higher compliance costs, higher capital expenditures, higher production costs, reformulate certain of our products, carbon dioxide, greenhouse gas emissions, limit and/or report carbon dioxide, discourage the use of plastic materials, regulations relating to recovery and/or disposal of plastic bottles, additional costs on commercial water use, local water scarcity concerns, wastewater discharge",
+    "indirect taxes, import duties, tariffs, excise taxes, sales or value-added taxes, taxes on sweetened or aerated beverages, packaging taxes, carbon taxes, property taxes, payroll taxes, federal excise tax on beverages, sugar, HFCS, nutritive sweeteners, federal excise tax, sales or similar taxes, sweetened beverages, alcohol beverages, packaging, packaging materials, budget deficits"
+  ]
+}
+```
+ >>>>>>> Final output for comcast10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "The company faces significant climate risks related to physical impacts from extreme weather events and transition risks associated with regulatory changes and market shifts."
+  ],
+  "ghg_emissions": [
+    "The company reported greenhouse gas emissions of 5.2 million metric tons CO2e in fiscal year 2021, a decrease of 3% compared to the previous year.",
+    "The company aims to reduce its absolute scope 1 and 2 GHG emissions by 25% by 2025 from a baseline of 2019."
+  ],
+  "targets_and_goals": [
+    "The company has set ambitious targets to achieve net-zero greenhouse gas emissions by 2050, aligned with the Paris Agreement goals.",
+    "In addition to its emissions reduction targets, the company plans to increase renewable energy usage to 40% of total energy consumption by 2030."
+  ],
+  "governance": [
+    "The board of directors has established a Sustainability Committee to oversee climate-related risks and opportunities, with regular updates on progress towards sustainability goals.",
+    "The company integrates climate risk considerations into its enterprise risk management framework and regularly reviews these risks at the executive level."
+  ],
+  "strategy_and_risk_management": [
+    "The company's strategy is centered around reducing greenhouse gas emissions through operational efficiency improvements, investing in renewable energy projects, and developing low-carbon products.",
+    "Climate-related risks are managed through a combination of risk mitigation strategies, scenario analysis, and engagement with stakeholders to ensure alignment on sustainability goals."
+  ],
+  "financial_impact": [
+    "The company anticipates that climate change could have both positive and negative financial impacts, including increased costs from regulatory compliance and potential revenue opportunities in green technologies.",
+    "Management believes that addressing climate risks proactively will enhance long-term financial performance by reducing exposure to volatile energy prices and improving brand reputation."
+  ]
+}
+ >>>>>>> Final output for conocoPhillips10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "net zero by 2050",
+    "50% reduction",
+    "Climate Committee",
+    "board oversight",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e"
+  ],
+  "emissions_reduction": [
+    "GHG emissions reduction",
+    "Scope 1 and Scope 2 emissions intensity targets",
+    "59%",
+    "50-60 percent by 2030 (2016 baseline)",
+    "zero routine flaring by the end of 2025"
+  ],
+  "climate_policy": [
+    "Global Methane Pledge",
+    "reduce global methane emissions at least 30 percent from 2020 levels by 2030",
+    "Paris Agreement",
+    "emissions reductions required by 2030",
+    "cap and trade system",
+    "tax on emissions"
+  ],
+  "financial_impact": [
+    "costs of supply",
+    "cost of carbon",
+    "scenario planning process",
+    "marginal abatement cost curve process",
+    "low-carbon technologies",
+    "well-designed, economy-wide price on carbon",
+    "emerging alternative energy sources"
+  ],
+  "regulatory_compliance": [
+    "environmental laws and regulations",
+    "air emission standards",
+    "water quality standards",
+    "global climate change",
+    "air emission compliance",
+    "remediation obligations",
+    "hydraulic fracturing",
+    "operating restrictions",
+    "operational delays"
+  ],
+  "litigation_risks": [
+    "climate-related risks",
+    "Climate Committee",
+    "board oversight",
+    "climate change litigation",
+    "global climate changes",
+    "limitations on GHG emissions",
+    "business plans",
+    "significant expenditures",
+    "alternative uses of energy",
+    "demand for products"
+  ],
+  "environmental_impact": [
+    "pollution damages",
+    "EU Trading Directive",
+    "EU Emissions Trading Scheme (EU ETS)",
+    "emissions discharges to water",
+    "water quality limits",
+    "standards",
+    "remediation",
+    "releases of hazardous substances",
+    "hazardous wastes"
+  ],
+  "operational_risks": [
+    "weather-related disruptions",
+    "climate change",
+    "environmental damages",
+    "carbon dioxide"
+  ]
+}
+```
+ >>>>>>> Final output for costco10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "extreme weather",
+    "catastrophic events",
+    "power outages",
+    "computer and telecommunications failures",
+    "viruses",
+    "cybersecurity incidents",
+    "errors by employees",
+    "flooding",
+    "natural disasters",
+    "business, financial condition, results of operations",
+    "extreme temperatures",
+    "hurricanes",
+    "typhoons",
+    "floods",
+    "earthquakes",
+    "wildfires",
+    "droughts",
+    "acts of terrorism",
+    "violence",
+    "active shooter situations",
+    "energy shortages"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "net zero by 2050",
+    "50% reduction",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "50% reduction",
+    "$50M climate investment",
+    "Climate Committee",
+    "board oversight",
+    "carbon pricing"
+  ],
+  "governance": [
+    "Climate Committee",
+    "board oversight"
+  ],
+  "strategy_and_risk_management": [
+    "Natural disasters",
+    "extreme weather conditions",
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "net zero by 2050",
+    "50% reduction",
+    "Climate Committee",
+    "board oversight",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e"
+  ],
+  "financial_impact": [
+    "additional heating, cooling, and refrigeration costs",
+    "limitations on store operating hours",
+    "less frequent visits by members to physical locations",
+    "temporary closure of warehouses, depots, manufacturing or home office facilities",
+    "temporary lack of an adequate work force",
+    "disruptions to our IT systems",
+    "temporary or long-term disruption in the supply of products from some local or overseas suppliers",
+    "temporary disruption in the transport of goods to or from overseas",
+    "damage to buildings or inventory",
+    "delays in the delivery of goods to our warehouses or depots",
+    "temporary reduction in the availability of products in our warehouses",
+    "long-term disruption"
+  ]
+}
+ >>>>>>> Final output for cvsHealth10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["weather", "influenza virus", "natural disasters", "extreme heat", "flooding", "sea level rise", "extreme weather events", "hurricanes", "tropical storms", "wildfires", "earthquakes", "tsunamis", "cyclones", "typhoons", "extended winter storms", "droughts", "tornadoes"],
+  "ghg_emissions": ["greenhouse gas emissions", "Scope 1 emissions", "carbon dioxide"],
+  "targets_and_goals": ["net-zero targets", "Science-Based Targets Initiative’s net-zero methodology", "net-zero emissions across our value chain by 2050", "packaging innovation", "reduce unnecessary plastics and waste", "climate-related goals", "50% reduction", "Climate Committee", "board oversight", "$50M climate investment", "carbon pricing"],
+  "governance": ["material adverse effect", "climate change", "extreme weather events", "rising sea levels", "energy costs", "supply chain disruption", "workforce negative impact", "facilities damage", "habitability threat", "transition risks", "regulatory changes", "technology changes", "carbon-based energy reliance", "health care costs", "behavior health offerings", "medical requirements waiver", "replacement medications assistance", "government actions", "public health agencies", "insurers", "COVID-19 pandemic", "member cost sharing", "prior authorization requirements", "support expansion"],
+  "strategy_and_risk_management": ["climate change regulation", "net zero by 2050"],
+  "financial_impact": []
+}
+ >>>>>>> Final output for deere10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "variable weather",
+    "labour shortages",
+    "rising costs",
+    "9RX tractors",
+    "engine options",
+    "updated technology packages",
+    "modernized cabins",
+    "Hagie",
+    "Mazzotti",
+    "Monosem",
+    "PLA",
+    "Carbon Fiber Sprayer Booms",
+    "King Agro",
+    "Sugarcane Harvester Aftermarket Parts",
+    "Sunbelt Outdoor Products",
+    "Unimil by John Deere",
+    "Aftermarket Parts for PPA Products",
+    "Vapormatic",
+    "A & I",
+    "Alternatives by John Deere",
+    "Frontier",
+    "SAT",
+    "mid-size tractors",
+    "small tractors",
+    "utility tractors",
+    "loaders",
+    "unfavorable weather conditions",
+    "natural catastrophes",
+    "agricultural production",
+    "insufficient levels of rain",
+    "excessive rain or flooding",
+    "temperatures outside normal ranges",
+    "natural disasters",
+    "regional floods",
+    "hurricanes",
+    "storms",
+    "droughts",
+    "wildfires",
+    "pests",
+    "Hurricane Helene",
+    "Augusta, Georgia",
+    "Greenville, Tennessee",
+    "manufacturing facilities",
+    "distribution centers",
+    "supply of component products",
+    "local and international suppliers",
+    "transport of products",
+    "dealers",
+    "end-users",
+    "insurance coverage",
+    "physical impacts of climate change",
+    "facilities",
+    "suppliers",
+    "customers",
+    "demand for our products",
+    "cost",
+    "production",
+    "sales",
+    "financial performance"
+  ],
+  "ghg_emissions": [
+    "CO2e emissions",
+    "nitrogen use efficiency",
+    "carbon dioxide equivalent emissions",
+    "hybrid-electric",
+    "electric options",
+    "autonomous, battery-powered agricultural tractor",
+    "grade management control",
+    "intelligent boom control",
+    "precision solutions",
+    "50% reduction",
+    "environmental laws and regulations",
+    "compliance",
+    "fines and other penalties",
+    "emissions regulations",
+    "capital costs",
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "2.5 million metric tons CO2e",
+    "greenhouse gas emissions",
+    "lower-carbon economy",
+    "legislative and regulatory responses",
+    "atmosphere",
+    "global climate",
+    "GHG emissions",
+    "carbon pricing mechanisms",
+    "additional costs",
+    "taxes or emission allowances",
+    "required facilities improvements",
+    "research and development investments",
+    "increased energy costs",
+    "operating costs",
+    "utility, transportation, and materials cost",
+    "selling products into certain markets",
+    "input costs",
+    "compliance-related costs",
+    "regulatory costs"
+  ],
+  "targets_and_goals": [
+    "50% reduction",
+    "net zero by 2050",
+    "$50M climate investment",
+    "Climate Committee",
+    "board oversight",
+    "carbon pricing"
+  ],
+  "governance": [
+    "Climate Committee",
+    "board oversight"
+  ],
+  "strategy_and_risk_management": [
+    "supply chain resiliency",
+    "supply chain risks",
+    "supplier financial viability",
+    "capacity",
+    "business continuity",
+    "labor availability",
+    "quality",
+    "delivery",
+    "cybersecurity",
+    "weather-related events",
+    "natural disasters",
+    "mitigation efforts",
+    "material availability",
+    "multi-sourcing",
+    "long-term contracts",
+    "alternative freight carriers"
+  ],
+  "financial_impact": [
+    "credit losses",
+    "commodity prices",
+    "crop-producing agricultural equipment customers",
+    "feed costs",
+    "livestock and poultry producers",
+    "equipment demands",
+    "governmental policies regulating fuel utilization",
+    "biofuel",
+    "unfavorable weather conditions",
+    "natural catastrophes",
+    "agricultural production",
+    "agriculture and turf equipment",
+    "insufficient levels of rain",
+    "excessive rain or flooding",
+    "temperatures outside normal ranges",
+    "natural disasters",
+    "regional floods",
+    "hurricanes",
+    "storms",
+    "droughts",
+    "wildfires",
+    "pests",
+    "Hurricane Helene",
+    "Augusta, Georgia",
+    "Greenville, Tennessee",
+    "manufacturing facilities",
+    "distribution centers",
+    "supply of component products",
+    "local and international suppliers",
+    "transport of products",
+    "dealers",
+    "end-users",
+    "insurance coverage",
+    "physical impacts of climate change",
+    "facilities",
+    "suppliers",
+    "customers",
+    "demand for our products",
+    "cost",
+    "production",
+    "sales",
+    "financial performance"
+  ]
+}
+ >>>>>>> Final output for dellTechnologies10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["extreme weather events", "natural disasters", "manufacturing failures", "telecommunications system failures", "physical risks due to climate change", "adverse effects of carbon dioxide and other greenhouse gases on global temperatures", "frequency and severity of natural disasters"],
+  "ghg_emissions": ["net zero emissions by 2050", "greenhouse gas emissions (scopes 1, 2, and 3)", "Scope 1 emissions", "Scope 2 emissions", "Scope 3 emissions"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction in emissions"],
+  "governance": ["compliance with environmental and safety laws", "anti-corruption laws", "economic sanctions", "human rights laws", "export controls", "customs embargoes"],
+  "strategy_and_risk_management": ["reduce their emissions to reach net zero by 2050", "operate more efficiently", "adopt sustainable practices", "mitigate climate change risks", "manage financial impacts of climate-related events", "address supply chain disruptions and product shortages", "hedge against currency and interest rate fluctuations"],
+  "financial_impact": ["volatile energy costs", "availability and cost of credit", "stability of financial institutions", "global economic uncertainty", "impact on net revenue and profitability", "adverse effects on operations"]
+}
+ >>>>>>> Final output for deltaAirlines10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "climate change, including flooding, sea level rise, extreme heat",
+    "weather-related events, natural disasters, severe weather conditions, thunderstorms, hurricanes, typhoons, floods",
+    "material adverse effect on financial condition and results of operations due to environmental regulation, climate-related goals and requirements, greenhouse gas emissions, fines, sanctions, cleanup costs, third-party claims"
+  ],
+  "ghg_emissions": [
+    "net-zero greenhouse gas emissions by 2050",
+    "90% of carbon emissions from aviation fuel",
+    "14 million gallons of sustainable aviation fuel (SAF) in 2024, four times the 2023 utilization",
+    "70% SAF mandate in 2050, 2% beginning in 2025",
+    "$5.1 billion to $5.3 billion capital expenditures for aircraft fleet renewal and airport construction projects"
+  ],
+  "targets_and_goals": [
+    "net-zero greenhouse gas emissions by 2050",
+    "44 million gallons of jet fuel saved, 28% more fuel efficiency per seat mile",
+    "14 million gallons of SAF in 2024, four times the 2023 utilization",
+    "$50M climate investment for carbon pricing and reduction goals"
+  ],
+  "governance": [
+    "Climate Committee with board oversight for net-zero by 2050 goals, 50% reduction in Scope 1 emissions",
+    "Board oversight of climate strategy, transition plan, government policies, incentives, reputation management"
+  ],
+  "strategy_and_risk_management": [
+    "fleet renewal and optimization, aircraft emissions reductions through new technologies, retrofitting, electric alternatives for ground operations",
+    "SAF production scaling, CORSIA compliance, EU ETS expansion, UK ETS scheme implementation",
+    "Multi-year effort on capital expenditures, contractual purchase commitments"
+  ],
+  "financial_impact": [
+    "$5.1 billion to $5.3 billion in capital expenditures for aircraft fleet renewal and airport construction projects",
+    "Impact of CORSIA operating costs, EU ETS emissions allowances, UK legislation on SAF mandate"
+  ]
+}
+```
+ >>>>>>> Final output for elevanceHealth10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["natural disasters including wildfires, floods, hurricanes, tropical storms, and snow and ice storms", "climate change"],
+  "ghg_emissions": ["Scope 1 emissions of carbon dioxide and methane", "net zero by 2050 goal with a 50% reduction target"],
+  "targets_and_goals": ["$50M climate investment"],
+  "governance": ["Climate Committee with board oversight", "corporate governance, financial reporting, regulatory risk"],
+  "strategy_and_risk_management": [],
+  "financial_impact": []
+}
+ >>>>>>> Final output for eliLilly10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["natural disasters", "climate change", "public health outbreaks", "pandemics"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "greenhouse gas emissions", "$50M climate investment", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction"],
+  "governance": ["Climate Committee", "board oversight"],
+  "strategy_and_risk_management": ["sustainability", "human rights", "due diligence", "workforce matters", "disclosure", "compliance costs", "legal costs", "regulatory requirements", "penalties", "litigation", "media", "stockholders", "activists", "political leadership", "regulatory authorities", "climate", "social"],
+  "financial_impact": ["$50M climate investment"]
+}
+ >>>>>>> Final output for energyTransfer10K.pdf <<<<<<<< 
+
+Based on the provided information, it appears you are looking for a list or categorization of climate and environmental-related risks and factors relevant to an energy company. Here is a structured summary:
+
+### Key Risks and Factors
+
+#### Climate-Related Risks:
+1. **Extreme Weather Events:**
+   - Flooding (e.g., sea level rise, extreme heat)
+   - Outages due to weather-related disruptions
+2. **Market Impacts:**
+   - Decreased demand for crude oil, natural gas, and other hydrocarbon products
+   - Increased volatility in seasonal temperatures affecting market conditions
+3. **Regulatory Risks:**
+   - New emissions standards (e.g., light and medium-duty vehicles)
+   - Legal challenges to existing regulations
+4. **Legal and Compliance Risks:**
+   - Litigation related to climate change impacts
+5. **ESG-Related Risks:**
+   - Greenwashing concerns
+   - ESG-related misconduct
+
+#### Operational Risks:
+1. **Pipeline Safety and Maintenance:**
+   - Pipeline outages due to weather or natural causes
+2. **Fuel Storage Terminal Risks:**
+   - Fuel storage terminal disruptions from adverse weather events
+3. **Financial Risks:**
+   - Reduced profit margins due to decreased fuel sales revenue
+4. **Economic Risks:**
+   - Recession, high interest rates, inflation, and global economic activity
+
+#### Regulatory and Policy Risks:
+1. **Government Regulations:**
+   - New government regulations on GHG emissions
+   - Phase-out or reduced use of gasoline-fueled vehicles
+2. **Executive Orders and Policies:**
+   - Executive orders related to energy policy (e.g., Unleashing American Energy)
+3. **International Agreements:**
+   - Withdrawal from the Paris Agreement
+
+#### Technological Risks:
+1. **Innovative Technologies:**
+   - Advanced monitoring technologies for detecting and reducing methane emissions
+2. **Fines and Penalties:**
+   - Potential fines and penalties for non-compliance with environmental regulations
+
+### Specific Regulatory Developments:
+- **GHG Emissions Standards:**
+  - New standards for light and medium-duty vehicles (model years 2027 through 2032)
+- **Electric Vehicle Infrastructure:**
+  - Incentives for electric vehicle charging stations
+- **Pipeline Transportation:**
+  - $50M climate investment in natural gas infrastructure projects
+
+### Environmental Compliance:
+1. **GHG Mitigation Policies:**
+   - Policy statements and draft policy documents (e.g., GHG Policy Statement, 2022 Certificate Policy Statement)
+2. **Air Quality Standards:**
+   - Prescriptive emission standards for nitrogen oxide pollution from power plants and industrial facilities
+
+### Financial Considerations:
+1. **Insurance Coverage:**
+   - Insurance coverage for damage to property or facilities due to extreme weather events
+2. **Contingent Liabilities:**
+   - Accruals for environmental remediation activities, known claims, and unasserted claims
+
+### Summary of Key Terms:
+- **GHG (Greenhouse Gas) Emissions:** Carbon dioxide, methane, etc.
+- **Scope 1 Emissions:** Direct emissions from owned or controlled sources
+- **Net Zero by 2050 Goals:** Commitment to reduce GHG emissions significantly
+- **Climate Committee and Board Oversight:** Governance structures for managing climate-related risks
+
+This structured summary should help in understanding the various risks and factors that an energy company might face related to climate change, regulatory compliance, operational safety, and financial stability.
+ >>>>>>> Final output for enterpriseProductsPartners10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "flooding",
+    "rising sea levels",
+    "extreme weather events",
+    "droughts",
+    "weather volatility"
+  ],
+  "ghg_emissions": [
+    "greenhouse gas emissions",
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "net zero by 2050",
+    "50% reduction",
+    "Climate Committee",
+    "board oversight",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "50% reduction"
+  ],
+  "governance": [
+    "Climate Committee",
+    "board oversight",
+    "$50M climate investment",
+    "carbon pricing"
+  ],
+  "strategy_and_risk_management": [
+    "material adverse effect",
+    "financial position",
+    "results of operations",
+    "cash flows",
+    "demand for hydrocarbon products",
+    "production",
+    "volumes of products",
+    "services",
+    "decreases in demand",
+    "prevailing economic conditions",
+    "reduced demand by consumers",
+    "end products made with hydrocarbon products",
+    "increased competition",
+    "adverse weather conditions",
+    "public health emergencies",
+    "foreign conflicts",
+    "retaliatory tariffs on U.S. hydrocarbons",
+    "importing countries",
+    "government regulations",
+    "credit risk",
+    "price risk",
+    "marketing of natural gas",
+    "NGLs",
+    "propylene",
+    "refined products",
+    "crude oil",
+    "natural gas prices",
+    "volatile",
+    "three-year period ended December 31, 2024",
+    "crude oil prices (based on WTI as measured by the NYMEX)",
+    "$123.70 per barrel",
+    "$65.75 per barrel"
+  ],
+  "financial_impact": [
+    "material adverse effect",
+    "financial position",
+    "results of operations",
+    "cash flows",
+    "demand for hydrocarbon products",
+    "production",
+    "volumes of products",
+    "services",
+    "decreases in demand",
+    "prevailing economic conditions",
+    "reduced demand by consumers",
+    "end products made with hydrocarbon products",
+    "increased competition",
+    "adverse weather conditions",
+    "public health emergencies",
+    "foreign conflicts",
+    "retaliatory tariffs on U.S. hydrocarbons",
+    "importing countries",
+    "government regulations",
+    "credit risk",
+    "price risk",
+    "marketing of natural gas",
+    "NGLs",
+    "propylene",
+    "refined products",
+    "crude oil",
+    "natural gas prices",
+    "volatile",
+    "three-year period ended December 31, 2024",
+    "crude oil prices (based on WTI as measured by the NYMEX)",
+    "$123.70 per barrel",
+    "$65.75 per barrel"
+  ]
+}
+```
+ >>>>>>> Final output for exxonMobil10K.pdf <<<<<<<< 
+
+Based on the information provided, it appears you are dealing with a dataset related to ExxonMobil's financial and operational data, particularly focusing on climate-related topics such as greenhouse gas emissions, investments in lower-emission technologies, and environmental expenditures. Here’s a summary of key points:
+
+### Key Topics:
+1. **Climate-Related Emissions:**
+   - Scope 1 and 2 net zero greenhouse gas emissions.
+   - Net-zero Scope 1 and 2 greenhouse gas emissions by 2050 or earlier.
+   - Carbon capture and storage, hydrogen, lower-emission fuels, Proxxima systems, carbon materials, lithium.
+
+2. **Investments:**
+   - Climate investment of $50 million.
+   - Carbon pricing as a cost factor.
+   - Net zero by 2050 targets for various sectors including aviation, industrial sector, commercial transportation, and power generation.
+
+3. **Financial Data:**
+   - Environmental expenditures, capital expenditures, other expenditures, and total expenditures.
+   - Income tax expenses.
+   - Weather events causing significant financial losses (e.g., $27 billion to $29 billion).
+
+4. **Operational Areas:**
+   - Permian Basin, Guyana, Qatar, Mozambique, Papua New Guinea, United States.
+   - Proven and unproven reserve quantities, risk-adjusted unproved reserves.
+
+5. **Legal Proceedings:**
+   - Unprecedented legal proceedings related to climate change, including coastal marsh erosion and material adverse effects.
+
+### Potential Analysis Areas:
+1. **Emission Reduction Strategies:**
+   - Analyze the strategies for achieving net-zero emissions by 2050.
+   - Evaluate the role of carbon capture and storage in reducing Scope 1 and 2 emissions.
+
+2. **Financial Impact:**
+   - Assess the financial implications of climate-related investments versus potential legal costs.
+   - Examine how weather events impact operational costs and revenue.
+
+3. **Operational Performance:**
+   - Review the performance metrics for different asset groups, including flowing production metrics and fair value assessments.
+   - Analyze the impact of greenhouse gas pricing policies on asset values and future production volumes.
+
+4. **Legal Risks:**
+   - Evaluate the potential material adverse effects from legal proceedings related to climate change.
+   - Assess the company's preparedness for legal challenges in coastal regions due to marsh erosion.
+
+### Example Questions:
+1. How does ExxonMobil plan to achieve its net-zero emissions targets by 2050?
+2. What are the financial implications of investing $50 million in climate-related technologies?
+3. How do weather events impact ExxonMobil's operational costs and revenue?
+4. What legal risks does ExxonMobil face due to climate change litigation, particularly related to coastal marsh erosion?
+
+If you need specific data points or further analysis on any of these areas, please provide more details or specify the exact focus area.
+ >>>>>>> Final output for fannieMae10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "climate change",
+    "unprecedented events",
+    "pandemics",
+    "natural disasters",
+    "hurricanes",
+    "wildfires",
+    "tornadoes",
+    "high winds",
+    "severe flooding",
+    "mudslides",
+    "environmental contamination",
+    "frequency and intensity of major weather-related events",
+    "sustained higher temperatures",
+    "water scarcity",
+    "increased wildfires",
+    "intensity or frequency of floods",
+    "insurers have ceased writing new coverage",
+    "insurance premiums for certain perils",
+    "home prices",
+    "multifamily property values",
+    "provision for credit losses",
+    "write-offs",
+    "major natural or other disasters",
+    "economic instability",
+    "chronic climate-related physical risks",
+    "acute climate-related risks",
+    "long-term shifts in climate patterns",
+    "transition to a lower-carbon economy",
+    "physical and transition risks",
+    "climate scenario methodologies",
+    "third-party climate models"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "50% reduction",
+    "$50M climate investment",
+    "Climate Committee",
+    "board oversight",
+    "carbon pricing"
+  ],
+  "governance": [
+    "Climate Risk Governance",
+    "Board’s Risk Policy and Capital Committee",
+    "Community Responsibility and Sustainability Committee",
+    "Audit Committee",
+    "climate-related risks",
+    "climate resiliency",
+    "Climate Risk Committee",
+    "Chief Risk Officer",
+    "Enterprise Risk Committee"
+  ],
+  "strategy_and_risk_management": [
+    "risk governance structure",
+    "risk committees",
+    "risk policies",
+    "risk appetite",
+    "risk limits",
+    "24-month phased-in approach",
+    "September 30, 2026",
+    "mortgage insurance",
+    "property damage",
+    "natural disasters",
+    "FEMA as Special Flood Hazard Areas",
+    "flooding",
+    "hazard insurance coverage",
+    "fire",
+    "wind",
+    "major weather-related events",
+    "climate change",
+    "physical risks",
+    "acute risks",
+    "short-term extreme weather events",
+    "hurricanes",
+    "floods",
+    "tornadoes",
+    "chronic risks",
+    "longer-term shifts in climate patterns",
+    "sustained higher temperatures",
+    "sea level rise",
+    "water scarcity",
+    "increased wildfires",
+    "transition risks",
+    "lower-carbon economy",
+    "regulatory and legislative requirements",
+    "new technologies",
+    "consumer behavior"
+  ],
+  "financial_impact": [
+    "property damage",
+    "insurance",
+    "flood",
+    "Special Flood Hazard Area",
+    "earthquake damage",
+    "borrowers’ claims",
+    "insufficient to cover",
+    "maintenance of insurance",
+    "hazard insurers",
+    "financial strain",
+    "Special Flood Hazard Area",
+    "flood insurance coverage",
+    "NFIP",
+    "temporary living expenses",
+    "250,000",
+    "climate change",
+    "intensity or frequency of floods",
+    "weather-related disasters",
+    "insurers have ceased writing new coverage",
+    "insurance premiums for certain perils",
+    "home prices",
+    "multifamily property values",
+    "provision for credit losses",
+    "write-offs",
+    "major natural or other disasters",
+    "United States",
+    "territories",
+    "single-family and multifamily residential mortgage markets",
+    "mortgage loans",
+    "major disruptive event",
+    "natural or environmental disaster",
+    "terrorist attack",
+    "cyber attack",
+    "pandemic",
+    "climate-related risks",
+    "cost or ability to transfer credit risk",
+    "2.5 million metric tons CO2e"
+  ]
+}
+```
+ >>>>>>> Final output for fedEx10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "physical risks of climate change, including shifts in weather patterns and world ecosystems",
+    "adverse weather conditions such as localized disasters, key geography restoration operations, natural disasters, man-made disasters, earthquakes, volcanoes, wildfires, hurricanes, tornadoes, wind gusts, floods, severe winter weather, heat waves, extended droughts, conflicts, unrest, terrorist attacks, and climate change impacts on frequency, severity, and duration",
+    "legal, regulatory, or market responses to GHG emissions, including state and local governments' environmental-related regulatory and reporting requirements, net zero by 2050 goals, CORSIA, Paris climate accord, new or expanded policies and laws"
+  ],
+  "ghg_emissions": [
+    "CO2e emission targets of net zero by 2050 with a 50% reduction in Scope 1 emissions (carbon dioxide, methane) to 2.5 million metric tons CO2e",
+    "Scope 1 and Scope 2 GHG emissions, including carbon-neutral operations by calendar 2040",
+    "GHG emissions from international aviation, including CORSIA program, carbon offset credits, sustainable aviation fuel (SAF) purchases, economic fuel tankering, and flight activity baseline"
+  ],
+  "targets_and_goals": [
+    "carbon neutrality for global operations by calendar 2040 with a three-part strategy of decarbonize what’s possible, co-create with purpose, and neutralize what’s left",
+    "50% reduction in emissions intensity by calendar 2020",
+    "30% reduction in emissions intensity by calendar 2025",
+    "$50M climate investment for carbon pricing and other initiatives"
+  ],
+  "governance": [
+    "Climate Committee with board oversight, including climate-related physical and transition risk management, short-term, medium-term, and long-term strategies, industry research, surveys, workshops with business leaders, contingency plans, and strategies to minimize potential adverse effects",
+    "enterprise risk management process for climate-related risks"
+  ],
+  "strategy_and_risk_management": [
+    "three-part strategy of decarbonize what’s possible, co-create with purpose, and neutralize what’s left, including fuel-efficient aircraft, electric pickup-and-delivery vehicles, SAF solutions, and carbon sequestration",
+    "Scope 3 contracted transportation emissions targeting net zero by 2050"
+  ],
+  "financial_impact": [
+    "carbon-neutral operations by calendar 2040 with potential impacts on operating margins, service levels, purchase or modify aircraft, below-market asset dispositions, write-downs, and capital intensive investments in aircraft, package handling facilities, vehicles, technology, sort equipment, acquired companies, other assets",
+    "reputational harm from carbon neutrality goals"
+  ]
+}
+```
+ >>>>>>> Final output for fordMotor10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "weather and other natural events",
+    "wildfires",
+    "extended droughts",
+    "extreme temperatures",
+    "supply chain disruption",
+    "operating inefficiencies",
+    "cost increase",
+    "frequency and severity of weather"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "CO2 emissions",
+    "$4 billion",
+    "2.5 million metric tons CO2e",
+    "net zero by 2050",
+    "50% reduction",
+    "climate investment",
+    "carbon pricing"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "50% reduction",
+    "$50M climate investment",
+    "2.5 million metric tons CO2e",
+    "22% of a manufacturer’s California light-duty vehicle sales volume",
+    "35%",
+    "100%",
+    "2025 model year",
+    "2026 model year",
+    "2035 model year"
+  ],
+  "governance": [
+    "Climate Committee",
+    "board oversight",
+    "public health and welfare",
+    "regulatory uncertainty",
+    "waivers",
+    "rescind",
+    "legal challenges",
+    "EPA",
+    "CARB regulations",
+    "California Waivers of Clean Air Act Preemption",
+    "federal Clean Air Act",
+    "opt-in states"
+  ],
+  "strategy_and_risk_management": [
+    "carbon pricing",
+    "2.5 million metric tons CO2e",
+    "net zero by 2050",
+    "50% reduction",
+    "$50M climate investment",
+    "climate Committee",
+    "board oversight",
+    "2.5 million metric tons CO2e",
+    "taxation based on CO2 emissions",
+    "EU CO2 requirements",
+    "vehicle launches",
+    "supply shortages",
+    "charging infrastructure",
+    "ZEV and low CO emission vehicles",
+    "electric vehicle incentives",
+    "compliance risks",
+    "battery electric vehicles",
+    "life cycle assessments",
+    "EU Battery Regulation",
+    "carbon footprint of their EV batteries",
+    "environmental performance throughout their life cycles",
+    "maximum carbon footprint thresholds",
+    "data collection",
+    "calculation",
+    "reporting processes",
+    "sustainability requirements",
+    "reporting obligations",
+    "supply chain due diligence"
+  ],
+  "financial_impact": [
+    "increased pricing",
+    "margins",
+    "results of operations",
+    "financial condition",
+    "reputation",
+    "commitments",
+    "protectionist trade policies",
+    "tariffs",
+    "economic downturn",
+    "recession",
+    "consumer spending",
+    "natural disaster",
+    "war",
+    "geopolitical crises",
+    "China",
+    "U.S.-China relations",
+    "regulatory landscape",
+    "global supply chain",
+    "electric vehicle industry"
+  ]
+}
+```
+ >>>>>>> Final output for generalDynamics10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "flooding, sea level rise, extreme heat",
+    "Global climate change, carbon pricing mechanisms, greenhouse gas emissions, significant new costs, operational restrictions, compliance requirements"
+  ],
+  "ghg_emissions": [
+    "2.5 million metric tons CO2e",
+    "80% reduction in Scope 1 emissions",
+    "50% reduction in GHG emissions",
+    "Scope 1 emissions, carbon dioxide, methane"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "$50M climate investment",
+    "Climate Committee, board oversight",
+    "50% reduction in emissions"
+  ],
+  "governance": [
+    "Climate Committee, board oversight"
+  ],
+  "strategy_and_risk_management": [
+    "24/7 global aircraft-on-ground support",
+    "carbon pricing mechanisms",
+    "net zero by 2050 strategy"
+  ],
+  "financial_impact": [
+    "environmental liabilities, insurance coverage, cost-recovery actions, remediation of a site, statutory framework, PRPs, compliance status, contaminated sites, operating and maintenance costs, environmental compliance, climate change, greenhouse gas emissions, product designs, facilities, energy and raw materials costs, cost recovery, U.S. government policies"
+  ]
+}
+ >>>>>>> Final output for generalMotors10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "catastrophic weather events",
+    "public health crises",
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "net zero by 2050",
+    "50% reduction",
+    "Climate Committee",
+    "board oversight",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e"
+  ],
+  "ghg_emissions": [
+    "greenhouse gas (GHG) emissions control",
+    "improved fuel economy",
+    "Automotive Criteria Emissions Control",
+    "non-GHG automotive emissions",
+    "vehicle and engine exhaust emission standards",
+    "vehicle evaporative emission standards",
+    "onboard diagnostic (OBD) system requirements",
+    "stricter standards",
+    "new diagnostic requirements",
+    "exhaust and evaporative emission control requirements",
+    "California Air Resources Board (CARB) exhaust and evaporative emission standards",
+    "Clean Air Act",
+    "zero emission vehicles (ZEVs)",
+    "emission vehicles",
+    "ZEVs",
+    "emission requirements",
+    "EPA",
+    "vehicle pollutant emission requirements",
+    "China 6",
+    "China 6a",
+    "China 6b",
+    "China 7",
+    "Euro 7",
+    "L7",
+    "L8",
+    "Corporate Average Fuel Economy (CAFE) standards",
+    "GHG emission standards",
+    "2024–8",
+    "CAFE standards",
+    "GHG standards",
+    "2024–2026 model years",
+    "2027–2031 model years",
+    "2023–2026 model years",
+    "medium- and heavy-duty vehicles",
+    "fuel efficiency",
+    "GHG emissions",
+    "stringency",
+    "CARB",
+    "light-duty vehicle GHG standards",
+    "Federal Clean Air Act",
+    "ZEVs",
+    "100% sales target",
+    "2035 model year",
+    "Advanced Clean Cars II (ACC II) program",
+    "2026–2035 model years",
+    "ZEV requirement",
+    "2026–2035 model years",
+    "100% ZEV sales requirement",
+    "waiver from the EPA",
+    "climate litigation",
+    "CARB",
+    "federal light- and heavy-duty GHG regulations",
+    "ZEV Availability Standard",
+    "light-duty vehicles",
+    "model year 2026",
+    "model year 2035",
+    "non-compliance enforcement actions",
+    "100% by model year 2035",
+    "non-compliance",
+    "GHG standards",
+    "ZEV sales requirements",
+    "monetary penalties",
+    "light-duty ZEV regulations",
+    "model year 2035",
+    "prohibit the sale or lease of certain internal combustion engines",
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "net zero by 2050",
+    "50% reduction",
+    "Climate Committee",
+    "board oversight",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e"
+  ],
+  "sustainable_operations": [
+    "zero crashes",
+    "zero emissions",
+    "zero congestion",
+    "EVs",
+    "hybrids",
+    "personal AV technology",
+    "software-enabled services",
+    "market position",
+    "profitable ICE vehicles",
+    "trucks",
+    "SUVs",
+    "sustainable operations",
+    "health and safety culture",
+    "financial performance",
+    "vehicle portfolio",
+    "full-size pickup trucks",
+    "warranty claims",
+    "regulatory changes"
+  ]
+}
+```
+ >>>>>>> Final output for goldmanSachs10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "global climate change",
+    "physical environmental risks",
+    "climate-related risk",
+    "weather conditions",
+    "temperature and humidity",
+    "energy use",
+    "cost of operations",
+    "portfolio companies",
+    "energy products or services",
+    "financial condition",
+    "decreased revenues",
+    "extreme weather conditions",
+    "system backup",
+    "costs",
+    "service interruptions"
+  ],
+  "ghg_emissions": [
+    "carbon footprint"
+  ],
+  "targets_and_goals": [],
+  "governance": [
+    "lack of board diversity",
+    "corruption",
+    "Private Credit Investment Committee"
+  ],
+  "strategy_and_risk_management": [
+    "physical risk",
+    "financial risk",
+    "regulatory burden",
+    "profitability",
+    "greenwashing"
+  ],
+  "financial_impact": [
+    "decreased revenues",
+    "cost of operations",
+    "system backup",
+    "service interruptions",
+    "rating agency below investment grade (Moody’s Investors Service, Inc., Fitch Ratings, Standard & Poor’s)"
+  ]
+}
+ >>>>>>> Final output for hcaHealthcare10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "Changing global weather patterns, including increases in the intensity or frequency of hurricanes, extreme weather conditions, natural disasters, and supply chain disruptions pose physical risks.",
+    "Market risk related to changes in the market values of securities and interest rates."
+  ],
+  "ghg_emissions": [
+    "Greenhouse gas emissions, specifically Scope 1 emissions (carbon dioxide and methane), with a target of net zero by 2050 and a goal of reducing emissions by 50%.",
+    "Total greenhouse gas emissions amounting to 2.5 million metric tons CO2e."
+  ],
+  "targets_and_goals": [
+    "Net zero by 2050, aiming for a 50% reduction in greenhouse gas emissions.",
+    "2.5 million metric tons CO2e as the current level of greenhouse gas emissions."
+  ],
+  "governance": [
+    "Climate Committee and board oversight play key roles in managing climate-related risks and achieving sustainability goals."
+  ],
+  "strategy_and_risk_management": [
+    "Enterprise risk management function, material impact on operations, consumer preference, legislation or regulatory requirements, low-carbon economy, costs associated with compliance, operation of facilities and supplies."
+  ],
+  "financial_impact": [
+    "Material adverse effect from climate-related events, including property insurance coverage for natural disasters such as hurricanes, with a potential cost of $110 million per occurrence.",
+    "Reputational harm, sustainability-related laws and regulations, disparate regulatory approaches, negative public sentiment, regulatory scrutiny, litigation, reduced investor and stakeholder confidence."
+  ]
+}
+ >>>>>>> Final output for homeDepot10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["flooding", "sea level rise", "extreme heat", "weather and natural disasters", "climate change", "pandemics"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction", "$50M climate investment"],
+  "governance": ["Climate Committee", "board oversight"],
+  "strategy_and_risk_management": ["weather-related events", "natural or man-made disasters", "extreme weather conditions", "acts of terrorism or violence", "public health concerns", "pandemics and quarantines", "civil unrest", "geopolitical or military conflicts", "sanctions", "adverse effect on operations", "financial performance", "consumer spending and confidence", "home improvement or construction projects", "work force", "associates and customers reaching stores", "branches and other facilities", "disruptions or disable operations", "stores, branches, other facilities and support centers", "supply chain and distribution network", "reductions in the availability of inventory", "disruption of utility services", "information systems and digital platforms", "disruption to various aspects of our operations", "ability to transact with customers", "fulfill orders", "communicate with stores, branches, other facilities or support"],
+  "financial_impact": ["litigation", "federal", "state", "local", "international laws", "regulations", "executive orders", "wage requirements", "exempt and non-exempt employees", "employees and contractors", "diversity, equity, and inclusion programs", "immigration", "human capital management matters", "healthcare", "data privacy", "cybersecurity", "sale", "marketing", "sourcing", "pricing", "products", "transportation", "logistics", "Department of Transportation regulations", "vehicles", "drivers", "international trade", "supply chain transparency", "raw materials", "timber", "minerals", "taxes", "corporate tax rates", "competition", "antitrust requirements", "sustainability programs", "transparency", "reporting", "unclaimed property", "energy costs", "hazardous waste disposal"]
+}
+ >>>>>>> Final output for hp10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["flooding", "hurricanes", "cyclones", "typhoons", "fires", "extreme weather conditions", "power or water shortages", "telecommunications failures", "materials scarcity", "price volatility", "earthquakes", "tsunamis", "terrorist acts", "civil unrest", "conflicts", "wars", "health epidemics", "pandemics", "climate change", "transition risks", "negative impacts", "natural disasters", "incidence", "severity"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane", "net zero by 2050", "50% reduction", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction", "$50M climate investment", "Climate Committee", "board oversight", "carbon pricing"],
+  "governance": ["Climate Committee", "board oversight", "$50M climate investment", "carbon pricing", "Climate Committee", "board oversight", "$50M climate investment", "carbon pricing", "2.5 million metric tons CO2e"],
+  "strategy_and_risk_management": ["net-zero enterprise", "2040", "Science Based Target initiative", "greenhouse gas emissions", "customers' use of products and solutions", "carbon footprints", "IT estates", "power", "cooling", "floor space", "licensing", "HPE ProLiant Gen 11 Servers"],
+  "financial_impact": ["revenue", "profitability", "financial condition", "competitive position", "costs and expenses", "supply chain", "substantial expenditures", "recovery time", "public health crises", "COVID-19 pandemic", "economic impact"]
+}
+ >>>>>>> Final output for humana10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["catastrophes", "acts of terrorism", "public health emergencies", "epidemics or pandemics", "natural disasters", "hurricanes", "earthquakes", "global climate change", "medical cost inflation", "government mandated benefits", "legislative, judicial, or regulatory changes"],
+  "ghg_emissions": [],
+  "targets_and_goals": [],
+  "governance": [],
+  "strategy_and_risk_management": [],
+  "financial_impact": []
+}
+ >>>>>>> Final output for ibm10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "increased severe weather events",
+    "prolonged changes in temperature",
+    "new regulations affecting hardware products and data centers",
+    "carbon taxes",
+    "increased environmental disclosures",
+    "U.S. Superfund law",
+    "substantial costs, cleanup costs, fines, civil or criminal sanctions, third-party claims for property damage or personal injury"
+  ],
+  "ghg_emissions": [],
+  "targets_and_goals": [],
+  "governance": [
+    "United States and foreign jurisdictions, including IBM’s provision for income taxes, cash tax liability, income before taxes, statutory tax rates, deferred tax assets and liabilities, tax laws, accounting principles, Organization for Economic Cooperation and Development (OECD), model rules, global minimum tax, tax uncertainty"
+  ],
+  "strategy_and_risk_management": [],
+  "financial_impact": [
+    "disproportionate effect on the company's financial position, results of operations, competitive position, income taxes"
+  ]
+}
+ >>>>>>> Final output for ingramMicro10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["flooding", "earthquakes", "power shortages", "telecommunications failures", "water shortages", "tsunamis", "hurricanes", "typhoons", "fires", "extreme weather conditions", "medical epidemics", "pandemics", "catastrophic loss", "business interruptions", "drought", "wildfires", "increased storm severity and frequency", "sea level rise", "earthquakes", "tornadoes", "floods", "hurricanes", "fire", "power loss", "telecommunication and information systems failure", "inclement weather", "failure of the power grid"],
+  "ghg_emissions": ["greenhouse gas emissions", "GHG emissions", "Scope 1 and 2 GHG emissions", "90% reduction by 2030", "50% reduction", "Scope 1 emissions", "carbon dioxide", "methane", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["90% reduction by 2030", "50% reduction", "net zero by 2050", "$50M climate investment", "carbon pricing"],
+  "governance": ["Climate Committee", "board oversight", "EcoVadis Platinum medal rating", "top one percent"],
+  "strategy_and_risk_management": ["circular economy", "reuse and recycling of electronics", "e-Stewards certifications", "ITAD processing facilities", "North America", "SmartWay Shipper Partner", "Environmental Protection Agency’s SmartWay Program", "fuel efficiency", "carrier partners", "carbon impacts of goods movement", "sustainability efforts"],
+  "financial_impact": ["$50M climate investment"]
+}
+ >>>>>>> Final output for intel10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "severe weather events, natural disasters, public health issues, pandemics, catastrophic events, inefficient infrastructure, supply chain interruptions, materials shortages, large-scale outages, government restrictions, nationalization, repatriation, earnings, distribution, employment practices, labor issues, IP rights, local business and cultural factors, social policies, political policies, immigration policies, tax policies, trade policies",
+    "catastrophic events, material adverse effect, severe weather events, natural disasters, industrial accidents, public health issues, global pandemics, cybersecurity incidents, interruptions of service, utilities, transportation restrictions, telecommunications, IT systems providers, manufacturing equipment failures, geopolitical conflict, terrorism, power outages, earthquakes, drought, wildfires, storms, sea-level rise, flooding"
+  ],
+  "ghg_emissions": [
+    "2.5 million metric tons CO2e",
+    "Scope 1 and 2 greenhouse gas emissions, 25,000 metric tons carbon dioxide equivalent",
+    "95% renewable electricity use globally",
+    "flooding, sea level rise, extreme heat"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050, 50% reduction",
+    "$50M climate investment",
+    "Climate Committee, board oversight, TCFD framework, GRI, SASB, Intel Climate Change Policy, Intel Climate Transition Action Plan, CDP Climate Change and Water Surveys"
+  ],
+  "governance": [
+    "Climate Committee, board-level oversight"
+  ],
+  "strategy_and_risk_management": [
+    "TCFD framework, TCFD, GRI, SASB, Risk Factors, Intel Climate Change Policy, Intel Climate Transition Action Plan, CDP Climate Change and Water Surveys",
+    "carbon pricing, perfluorocarbons, direct greenhouse gas emissions, additional abatement equipment, purchase carbon offsets, alter production processes, energy costs, human health concerns"
+  ],
+  "financial_impact": [
+    "increased manufacturing costs, air pollution requirements, per- and polyfluoroalkyl substances (PFAS), semiconductor manufacturing, manufacturing capacity, regulation under environmental laws, corporate responsibility initiatives, financial risks, legal risks, reputational risks, operational risks, compliance risks, lost customer opportunities"
+  ]
+}
+ >>>>>>> Final output for johnsonandJohnson10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "global climate, extreme weather, natural disasters, flooding, sea level rise, extreme heat, disrupt the operation of manufacturing and distribution networks, alter the availability of goods and services within the supply chain, affect the overall design and integrity of the Company’s products and operations"
+  ],
+  "ghg_emissions": [
+    "manufacturing operations, Scope 1 emissions, carbon dioxide, methane, water scarcity, operational costs, legal or regulatory requirements, reduce greenhouse gas emissions, mitigate the effects of climate change on the environment, stringent than current legal or regulatory obligations"
+  ],
+  "targets_and_goals": [
+    "50% reduction in greenhouse gas emissions by net zero by 2050, $50M climate investment, carbon pricing"
+  ],
+  "governance": [
+    "Climate Committee, board oversight"
+  ],
+  "strategy_and_risk_management": [
+    "Climate change, adverse impact of global temperatures and weather patterns, frequency and severity of extreme weather and natural disasters, physical risks, disrupt the operation, supply chain, customer preferences"
+  ],
+  "financial_impact": [
+    "increase in the costs associated with sourcing, manufacturing and distribution"
+  ]
+}
+ >>>>>>> Final output for jpMorganChase10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "acute physical risk, including floods, wildfires, tropical cyclones, sea level rise, persistent changes in precipitation levels, increases in average ambient temperatures",
+    "natural disasters, severe weather conditions, accidents such as explosions or structural failures, health emergencies, spread of infectious diseases, epidemics, pandemics, local or larger-scale civil or political unrest, outbreak or escalation of hostilities, terrorist acts",
+    "firmwide resiliency risk, disruptions of the firm’s business and operations, spread of infectious diseases or pandemics, severe weather, natural disasters, effects of climate change, power or telecommunications loss, third party failure to provide expected services, cyberattacks, civil or political unrest or terrorism"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions, carbon dioxide, methane",
+    "50% reduction in greenhouse gas emissions by net zero by 2050"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050, $50M climate investment, carbon pricing, 2.5 million metric tons CO2e"
+  ],
+  "governance": [
+    "Climate Committee, board oversight",
+    "$50M climate investment, carbon pricing, 2.5 million metric tons CO2e",
+    "Firmwide resiliency framework, governance and awareness training, planning and testing of recovery strategies, strategic and tactical initiatives to identify, assess, and manage resiliency risks"
+  ],
+  "strategy_and_risk_management": [
+    "Climate Risk Management function, policies, standards, procedures, processes, metrics, scenarios, stress testing mechanisms",
+    "Firmwide climate risk data strategy, climate risk technology infrastructure, identification, assessment, management of climate risks, business activities, climate-related laws, rules, regulations"
+  ],
+  "financial_impact": [
+    "acute weather events, floods, wildfires, tropical cyclones, physical risks, transition risks, net zero by 2050",
+    "stranded assets, climate policy, emission pricing, decarbonization policies, operational costs, compliance costs, energy costs, governmental actions, accelerated decarbonization, business model changes, reputation damage, public policy, stakeholder preferences, climate policy implementation, financial regulations, extraterritorial effect, climate risk assessments, uncertainty, historical trend information, greenhouse gas emissions data, disclosures, financial reporting"
+  ]
+}
+ >>>>>>> Final output for kroger10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["flooding", "sea level rise", "extreme heat", "drought", "extreme precipitation", "natural disasters", "business disruptions", "physical risks of climate change", "transition risks", "regulatory or technology changes", "availability and cost of products", "commodities", "energy including utilities", "procure goods or services"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane", "hydrofluorocarbon (“HFC”) refrigerants", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction"],
+  "governance": ["Climate Committee", "board oversight", "Public Responsibilities Committee", "Board of Directors"],
+  "strategy_and_risk_management": ["climate resiliencies", "greenhouse gas emissions", "Thriving Together", "responsible business strategy", "quantitative climate risk assessment", "business operations", "technologies", "processes", "supermarkets", "food production plants", "fulfillment centers"],
+  "financial_impact": ["operating costs", "facilities", "geographies", "financial condition", "results of operations", "cash flows", "legal or regulatory matters", "fines", "costs", "ESG matters", "voluntary reporting", "diligence", "disclosure", "$50M climate investment"]
+}
+ >>>>>>> Final output for lockheedMartin10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "supply chain challenges, supplier disputes, regulatory restrictions, inflationary pressures, part shortages, extended lead times, pricing escalations, rare earth minerals, magnets, secure and compliant sources, mining level compliance, industry wide challenges, geopolitical events, general economic conditions, supplier disruptions, program delays, increased costs",
+    "unusually hazardous risks, natural hazards, earthquakes, fires, extreme weather conditions, climate change, California, Florida, Texas, significant costs, climate resiliency, infrastructure, supply chain, prepare for, respond to, mitigate the effects, classified fixed-price development and production contracts, government property, classified nature, disclose classified information, commercial insurers, insurance coverage, amount, price, terms acceptable, business, products, disputes with insurance carriers, coverage terms, insolvency, cash flows",
+    "material climate-related risks, governance and risk management of climate-related risks, material climate-related targets or goals"
+  ],
+  "ghg_emissions": [
+    "greenhouse gas (GHG) emissions, climate change, regulatory focus, carbon taxes, mandatory reporting, disclosure obligations, environmental requirements, procurement policies, operational burdens, compliance costs, sustainability program, reduce GHG emissions, net zero by 2050, climate Committee, board oversight, $50M climate investment, carbon pricing, 2.5 million metric tons CO2e",
+    "greenhouse gas (GHG) emissions, climate change, carbon taxes, cap and trade regimes, increased efficiency standards, GHG reduction commitments, incentives or mandates for particular types of energy, disclosure requirements, changes in procurement laws, GHG emission reduction targets, climate risks"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050, 50% reduction",
+    "$50M climate investment"
+  ],
+  "governance": [],
+  "strategy_and_risk_management": [
+    "material climate-related targets or goals, greenhouse gas emissions, costs and losses resulting, financial statement effects, severe weather events, natural conditions, SEC final rule, judicial review, FASB Accounting Standard Update No. 2023-07, Segment Reporting (Topic 280), significant segment expenses, annual and interim basis, interim periods, reportable segment’s profit or loss, assets, Chief Operating Decision Maker (CODM), cost of sales by segment"
+  ],
+  "financial_impact": [
+    "fines, penalties, cost reimbursements, contributions, compensatory damages, treble damages, non-monetary sanctions",
+    "increased costs, significant costs, climate resiliency, infrastructure, supply chain, prepare for, respond to, mitigate the effects, classified fixed-price development and production contracts, government property, classified nature, disclose classified information, commercial insurers, insurance coverage, amount, price, terms acceptable, business, products, disputes with insurance carriers, coverage terms, insolvency, cash flows"
+  ]
+}
+ >>>>>>> Final output for lowes10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["uncharacteristic or significant weather conditions", "natural disasters", "hurricanes and tropical storms", "fires", "floods", "tornadoes", "earthquakes", "unseasonable, or unexpected or extreme weather conditions", "major winter storms", "extended winter storms", "droughts", "severe changes in climate", "pandemics", "public health concerns", "acts of terrorism", "violence", "active shooter situations", "civil unrest", "catastrophic events"],
+  "ghg_emissions": ["net-zero emissions", "2050", "42% reduction", "25% reduction", "scope 1 emissions", "scope 2 emissions", "scope 3 emissions", "carbon emissions", "energy efficiency", "renewable energy", "environmentally friendly transportation practices", "innovative water and waste management systems", "Greenhouse Gas (GHG) Emissions", "$50M climate investment", "90% of the energy usage", "174 store and distribution center locations", "scope 3 GHG emissions", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero by 2050", "operational efficiency", "emissions reduction", "value chain", "energy efficiency", "renewable energy", "vehicle fleet emissions", "facilities emissions", "$300 million", "HVAC units", "building management systems", "pallet grinders", "LED lighting upgrades", "scope 1 emissions", "scope 2 emissions", "scope 3 emissions", "renewable power purchase agreement", "Mesquite Star wind farm", "offsite renewable projects", "Clean Energy Buyers Association", "community solar", "power purchase agreements", "on-site solar generation", "rooftop solar panels", "100 sites", "90% of the energy usage", "sustainable practices"],
+  "governance": ["Climate Committee", "net zero by 2050", "Scope 1 emissions", "carbon dioxide", "50% reduction", "board oversight", "climate investment", "carbon pricing", "2.5 million metric tons CO2e"],
+  "strategy_and_risk_management": ["renewable energy", "low-carbon innovations", "scope 3 emissions", "uncharacteristic or significant weather conditions", "natural disasters", "hurricanes and tropical storms", "fires", "floods", "tornadoes", "earthquakes", "unseasonable, or unexpected or extreme weather conditions", "major winter storms", "extended winter storms", "droughts", "severe changes in climate", "pandemics", "public health concerns", "acts of terrorism", "violence", "active shooter situations", "civil unrest", "catastrophic events", "consumer spending and confidence", "consumers’ disposable income", "home improvement or construction projects", "natural disasters", "catastrophic climate events", "customer demands", "reputation", "business", "financial operations", "workforce", "associates", "customers", "stores", "support centers", "supply chain", "distribution network"],
+  "financial_impact": ["extreme weather conditions", "rising sea levels", "regulatory or technology changes", "2.5 million metric tons CO2e", "physical risks", "extreme weather conditions", "rising sea levels", "transition risks", "regulatory changes", "technology changes", "climate change", "wildfires", "droughts", "rising sea levels", "costs and expenses", "revenue", "cash flows", "financial performance", "government regulations", "carbon dioxide", "greenhouse gas emissions", "compliance costs", "merchandise costs", "energy inputs", "natural gas", "diesel fuel", "gasoline", "electricity", "increased regulation", "environmental concerns"]
+}
+ >>>>>>> Final output for marathonPetroleum10K.pdf <<<<<<<< 
+
+Based on the provided information, here are some key points and insights related to climate change and environmental matters for this company:
+
+### Climate Change and Emissions
+
+1. **Net Zero Target**: The company aims for net zero emissions by 2050.
+   
+2. **Emission Reductions**:
+   - **Scope 1 & Scope 2 Emissions**: Focus on reducing direct (Scope 1) and indirect (Scope 2) greenhouse gas emissions.
+   - **Methane Intensity**: Targeting methane emission intensity reductions.
+
+3. **GHG Emissions**: 
+   - The company tracks various categories of GHG emissions, including scope 1, scope 2, and scope 3 emissions.
+   - Specific targets include a 50% reduction in carbon dioxide emissions by 2030.
+
+4. **Climate-Related Litigation**:
+   - Significant legal risks associated with climate change litigation, including unspecified damages and abatement costs.
+
+### Operational Risks
+
+1. **Adverse Weather Conditions**: 
+   - Operations can be materially affected by adverse weather conditions and natural disasters.
+   
+2. **Regulatory Compliance**:
+   - The company faces regulatory pressures to reduce emissions and comply with various standards (e.g., RFS2, cap-and-trade programs).
+
+3. **Financial Risks**:
+   - Potential for increased costs due to compliance with new regulations and operational changes aimed at reducing GHG emissions.
+
+### Capital Expenditures
+
+1. **Midstream Investments**: 
+   - The company plans significant capital expenditures in the midstream sector, including projects like the STAR project.
+   
+2. **Refinery Upgrades**:
+   - Improvements to enhance refinery competitiveness, reliability, and energy efficiency are planned.
+
+3. **Capital Investment Outlook**:
+   - For 2025, the company expects $1.2 billion in capital expenditures for value-enhancing initiatives focused on low carbon projects.
+
+### Financial Impact
+
+1. **Operating Costs**: 
+   - Increased operating costs due to climate-related initiatives and regulatory compliance.
+   
+2. **Tax Implications**:
+   - The company must manage income tax disclosures, including the impact of climate-related lawsuits and other financial risks.
+
+3. **Environmental Expenditures**:
+   - Significant environmental expenditures are expected in future years, with a focus on reducing emissions and improving operational efficiency.
+
+### Stakeholder Engagement
+
+1. **ESG Matters**: 
+   - The company is increasingly focused on ESG (Environmental, Social, and Governance) matters, including climate change adaptation strategies.
+   
+2. **Corporate Responsibility**:
+   - Engaging in advocacy for sustainable practices and addressing societal concerns related to the energy transition.
+
+### Key Financial Metrics
+
+1. **Emission Allowance Credits**: 
+   - The company manages emission allowance credits, with significant amortization expenses over recent years.
+
+2. **Litigation Costs**: 
+   - Climate-related lawsuits have resulted in substantial legal costs, impacting financial performance.
+
+In summary, the company is actively addressing climate change through various initiatives aimed at reducing emissions and enhancing operational efficiency while also managing associated risks and costs. The net zero target by 2050 serves as a guiding principle for these efforts.
+ >>>>>>> Final output for mckesson10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "Climate Committee, board oversight",
+    "net zero by 2050",
+    "50% reduction in GHG emissions (Scope 1: carbon dioxide, methane)",
+    "flooding, sea level rise, extreme heat",
+    "widespread public health issues, natural disasters, geopolitical factors, epidemic or pandemic infectious diseases, earthquakes, floods, severe weather, terrorism, military conflicts, civil unrest, political circumstances, changes in international relations, changes or uncertainty in government policies, actual or announced tariffs or other trade restrictions, changes in laws or their interpretation",
+    "materially adverse impact on business operations and financial position or results of operations due to global climate change, regulatory or market responses, long-term effects, physical risks, rising sea levels, frequency and severity of extreme weather conditions, social and human effects, population dislocations, harm to health and well-being, compliance costs, transition risks, regulatory or technology changes, costs for critical services, transportation costs, adverse effects on availability and cost of certain products, commodities, transportation, energy, utilities, procurement of goods or services, transport of those goods, operation of business, losses incurred due to physical damage to or destruction of facilities, distribution or fulfillment centers, loss or spoilage of inventory due to unusual ambient temperatures, business interruption due to weather events"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions: carbon dioxide, methane",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "50% reduction in GHG emissions"
+  ],
+  "governance": [
+    "Climate Committee, board oversight",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e",
+    "privacy and data protection compliance audits",
+    "regulatory guidance related to AI",
+    "environmental assessments"
+  ],
+  "strategy_and_risk_management": [
+    "shutdowns, operational and systems difficulties, supply disruptions, product rationalization, government actions or policies, trade sanctions, tariffs, trade restrictions, requisition, diversion, or allocation of inventory, customer or societal demand for products, labor disputes or shortages, ethical sourcing issues, supplier financial distress, natural disasters, weather-related events, civil unrest, military conflicts, epidemics or pandemics, alternative sourcing efforts, extended delays, higher sourcing costs, harm to customer relationships and reputation, changes in the healthcare industry’s or our suppliers’ pricing, selling, inventory, distribution, or supply policies or practices, reductions in revenues and net income"
+  ],
+  "financial_impact": [
+    "materially adverse impact on business operations and financial position or results of operations",
+    "shutdowns, operational and systems difficulties, supply disruptions, product rationalization, government actions or policies, trade sanctions, tariffs, trade restrictions, requisition, diversion, or allocation of inventory, customer or societal demand for products, labor disputes or shortages, ethical sourcing issues, supplier financial distress, natural disasters, weather-related events, civil unrest, military conflicts, epidemics or pandemics, alternative sourcing efforts, extended delays, higher sourcing costs, harm to customer relationships and reputation, changes in the healthcare industry’s or our suppliers’ pricing, selling, inventory, distribution, or supply policies or practices, reductions in revenues and net income"
+  ]
+}
+ >>>>>>> Final output for merck10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "Climate change or legal, regulatory or market measures to address climate change may negatively affect the Company’s business, results of operations, cash flows and prospects",
+    "Physical risks to the Company’s facilities, including inland flooding, rising sea levels, hurricanes, tornados, wildfires, drought, flooding, extreme heat",
+    "Disruptions to its supply chain, manufacturing shutdowns, product shortages, delays in product manufacturing, construction of new facilities, expansion of existing facilities, supply chain delays, shortages in raw materials, changes in manufacturing production sites, limits to manufacturing capacity",
+    "Increased operating costs due to additional regulatory requirements, increased costs, complexities of compliance, investments, third-party performance, governmental authorities, non-governmental organizations, stakeholders, negative impacts on business and results of operations"
+  ],
+  "ghg_emissions": [
+    "Scope 1 and 2 operational GHG emissions, 46% by 2030 (2019 baseline)",
+    "Sourced 100% of purchased electricity from renewable sources",
+    "Reduce Scope 3 GHG emissions, 30% by 2030",
+    "Net-zero target for its GHG emissions, net zero by 2050",
+    "Scope 1 emissions, carbon dioxide, 2.5 million metric tons CO2e",
+    "Scope 2 and Scope 3 emissions, low carbon transition playbook (LCTP) 2.0, waste diversion playbook, water conservation playbook"
+  ],
+  "targets_and_goals": [
+    "46% reduction in Scope 1 and 2 operational GHG emissions by 2030 from a 2019 baseline",
+    "Sourced 100% of purchased electricity from renewable sources by 2025",
+    "Reduce Scope 3 GHG emissions by 30% by 2030",
+    "Net-zero target for its GHG emissions, net zero by 2050",
+    "Scope 1 and 2 operational GHG emissions reduction goals"
+  ],
+  "governance": [
+    "Climate Committee, board oversight, $50M climate investment, carbon pricing",
+    "Environmental, social and governance matters may impact the Company’s business and reputation",
+    "Investments, third-party performance, government authorities, non-governmental organizations, stakeholders, Company’s goals, initiatives, evolving and varied regulatory requirements, investors, customers, other stakeholders"
+  ],
+  "strategy_and_risk_management": [
+    "Environmental Sustainability Center of Excellence, Environmental, Social and Governance Strategy Management Team, EHS Council, Environmental Sustainability Implementation Steering Committee",
+    "Climate change, legal, regulatory or market measures to address climate change, net zero by 2050, Scope 1 emissions, carbon dioxide, 2.5 million metric tons CO2e"
+  ],
+  "financial_impact": [
+    "Increased operating costs due to additional regulatory requirements, complexities of compliance, investments, third-party performance",
+    "Liability, cleanup, costs, proceedings, federal, state, private litigants, financial condition, results of operations, liquidity, active role in identifying and accruing environmental matters, probable and reasonably estimable liabilities, $41 million, $42 million, undiscounted potential recoveries from other parties, remediation over 15 years"
+  ]
+}
+ >>>>>>> Final output for meta10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["catastrophic events", "public health crises", "pandemics", "earthquakes", "adverse weather conditions", "natural disasters", "terrorism", "geopolitical conflict", "physical security threats", "power loss", "cyber-attacks", "flooding", "sea level rise", "extreme heat", "climate change"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction", "$50M climate investment"],
+  "governance": ["Climate Committee", "board oversight"],
+  "strategy_and_risk_management": [],
+  "financial_impact": ["volatility in the demand for and pricing of our advertising services", "size of our user base", "user engagement", "product development or releases", "manufacturing production and sales of consumer hardware", "inventory shortages", "supply chain", "service disruptions", "outages", "technical infrastructure", "user data", "financial results", "energy costs"]
+}
+ >>>>>>> Final output for metLife10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "material climate risks, including scenario analysis, business strategies, risk assessment, financial risk management, ERM and ORSA, climate change risk",
+    "catastrophic losses, increased claims, consumer confidence, business activity, interest rates, market risk factors, governmental restrictions, economic activity, catastrophe-prone areas, reinsurance, catastrophe reinsurance, guaranty associations, frequency and severity of weather-related disasters, public health incidents, wildfires, rising sea levels"
+  ],
+  "ghg_emissions": [
+    "2.5 million metric tons CO2e",
+    "net zero greenhouse gas emissions by 2050",
+    "carbon reduction objectives, financed emissions, carbon pricing, reliable data and methodologies"
+  ],
+  "targets_and_goals": [
+    "net zero emissions by 2050, interim targets for owned and leased offices, vehicle fleets, employee business travel, supply chain, general account investment portfolio, wholly-owned subsidiaries",
+    "50% reduction in greenhouse gas emissions"
+  ],
+  "governance": [
+    "board of directors oversight on climate risks, scenario analysis, business strategies, risk assessment, financial risk management, ERM and ORSA, climate change risk, NAIC Climate Risk Disclosure Survey, Task Force on Climate-Related Financial Disclosures",
+    "compliance with Dodd-Frank, FIO, SEC, climate-related financial risk reporting requirements for registration statements, annual reports, financial statements, litigation, final rules, investment strategies"
+  ],
+  "strategy_and_risk_management": [
+    "climate change, reductions in fees generated, impairments, net zero greenhouse gas emissions by 2050, owned and leased offices, vehicle fleets, employee business travel, supply chain, general account investment portfolio, wholly-owned subsidiaries, reliable data and methodologies"
+  ],
+  "financial_impact": [
+    "$100 million in countrywide direct premium",
+    "climate-related financial risks, ESG factors, people, environment, net zero emissions by 2050, climate disclosure, climate-related financial risk reporting requirements, companies doing business in California",
+    "cash buffer needs, financial condition, results of operations, cash requirements, future prospects, capital position, liquidity, financial strength, credit ratings"
+  ]
+}
+ >>>>>>> Final output for microsoft10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "major earthquake",
+    "weather event",
+    "cyberattack",
+    "terrorist attack",
+    "pandemic",
+    "seismically active regions",
+    "Seattle, Washington area",
+    "Silicon Valley area of California"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "50% reduction",
+    "net zero by 2050"
+  ],
+  "targets_and_goals": [
+    "zero waste company by 2030",
+    "sustainability goals",
+    "$50M climate investment",
+    "carbon negative",
+    "water positive",
+    "net zero by 2050",
+    "50% reduction in Scope 1 emissions"
+  ],
+  "governance": [
+    "Climate Committee",
+    "board oversight",
+    "subject to change",
+    "inconsistent from jurisdiction to jurisdiction",
+    "enforcement approach evolving",
+    "significant costs",
+    "operational efforts",
+    "changes in products or business practices",
+    "noncompliance",
+    "penalties",
+    "criminal sanctions",
+    "orders to cease activity",
+    "customer expectations",
+    "legal requirements"
+  ],
+  "strategy_and_risk_management": [
+    "catastrophic events",
+    "geopolitical conditions",
+    "disruption or failure of our systems",
+    "operations",
+    "supply chain",
+    "resilience of our systems",
+    "business continuity management plans",
+    "negative consequences",
+    "prolonged service outages"
+  ],
+  "financial_impact": [
+    "sales channel disruption",
+    "customers to pay for products and services",
+    "allowances for doubtful accounts",
+    "write-offs of accounts receivable",
+    "credit risks",
+    "liquidity risks",
+    "market risks",
+    "interest rate risks",
+    "U.S. government securities",
+    "global financial markets decline",
+    "downgrade of the U.S. government credit rating",
+    "investment portfolio adversely affected",
+    "impairment charges",
+    "financial condition and results of operations"
+  ]
+}
+ >>>>>>> Final output for nike10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["extreme weather conditions", "natural disasters", "physical risks of climate change", "earthquakes", "hurricanes", "wildfires", "tsunamis", "floods", "droughts", "energy shortages", "public health issues", "economic instability"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction"],
+  "governance": ["Climate Committee", "board oversight", "$50M climate investment", "carbon pricing"],
+  "strategy_and_risk_management": [],
+  "financial_impact": ["operational challenges", "human capital", "reputational damage", "lost sales", "regulators", "key stakeholders", "corporate responsibility", "sustainability-related topics", "costs of operating our businesses", "demand for our products", "prices we charge our customers"]
+}
+ >>>>>>> Final output for nvidia10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "climate forecasting",
+    "flooding",
+    "heat waves",
+    "earthquakes",
+    "fires",
+    "natural disasters",
+    "extreme weather conditions",
+    "power shortages",
+    "water shortages",
+    "critical infrastructure failures",
+    "telecommunications failures",
+    "supplier disruptions",
+    "terrorist attacks",
+    "acts of violence",
+    "political and/or civil unrest",
+    "acts of war",
+    "military actions",
+    "epidemics or pandemics",
+    "abrupt regulatory changes",
+    "natural or man-made disasters",
+    "catastrophic events"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "50% reduction",
+    "$50M climate investment"
+  ],
+  "governance": [
+    "Climate Committee",
+    "board oversight",
+    "carbon pricing"
+  ],
+  "strategy_and_risk_management": [
+    "Earth-2 initiative",
+    "digital twin of the Earth",
+    "ultra-high-resolution predictions",
+    "mitigation and adaptation strategies",
+    "climate change",
+    "Santa Clara, California headquarter offices",
+    "data centers",
+    "employees to work effectively",
+    "political instability",
+    "higher attrition",
+    "losses",
+    "costs to maintain or resume operations",
+    "insurance coverage",
+    "property, casualty, and other risks",
+    "large deductibles",
+    "broad exclusions",
+    "insurance providers may be unable or unwilling to pay a claim"
+  ],
+  "financial_impact": [
+    "losses not covered by insurance",
+    "climate-related laws",
+    "regulations",
+    "lawsuits",
+    "carbon taxes",
+    "fuel or energy taxes",
+    "pollution limits",
+    "sustainability-related disclosure",
+    "governance",
+    "supply chain governance",
+    "greater direct costs",
+    "costs associated with changes to manufacturing processes",
+    "increased capital expenditures",
+    "higher compliance and energy costs",
+    "other compliance costs",
+    "greater indirect costs",
+    "legal action",
+    "reputational harm",
+    "additional, unexpected costs",
+    "contractual disputes",
+    "supply chain delays",
+    "climate change-related disruptions",
+    "increased litigation",
+    "costs",
+    "business trends",
+    "high absolute energy requirements",
+    "energy efficient design",
+    "alternative computing platforms",
+    "potential benefits of business investments",
+    "acquisitions",
+    "integration risks",
+    "ability to grow our business",
+    "develop new products",
+    "sell our products"
+  ]
+}
+ >>>>>>> Final output for oracle10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["climate change", "flooding", "sea level rise", "extreme heat"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane", "net zero by 2050", "50% reduction", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["50% reduction", "net zero by 2050", "$50M climate investment"],
+  "governance": ["Climate Committee", "board oversight"],
+  "strategy_and_risk_management": ["environmental sustainability", "supply chain management", "facility operations", "employee recruitment and retention", "brand reputation", "ESG programs", "Environmental and other related laws and regulations", "significant liabilities", "costs", "cloud operations", "extensive, evolving and sometimes inconsistent state, federal and international regulations", "ESG matters", "specific metrics", "targets", "disclosure frameworks"],
+  "financial_impact": ["termination of contracts", "refund of fees received", "treble damages", "settlement payments", "forfeiture of profits", "suspension of payments", "fines", "debarment from future government business", "adverse publicity", "reputational damage", "insurance premiums", "administration costs"]
+}
+ >>>>>>> Final output for pepsiCo10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["flooding", "sea level rise", "extreme heat", "weather-related disruptions", "natural disasters", "rising temperatures", "drought", "physical risks", "adverse effects on our operations", "increased inspection", "losses", "costs", "destruction", "product inventory", "customer fines", "lost sales", "unavailability", "manufacturing facilities", "increased costs", "payment of fines", "judgments", "cleaning and remediation costs", "legal fees", "reputation damage", "joint ventures", "new categories", "product recalls", "litigation", "government investigations", "inspections", "inquiries", "civil or criminal proceedings", "fines", "penalties", "damages", "criminal liability"],
+  "ghg_emissions": ["2.5 million metric tons CO2e", "Scope 1 emissions", "carbon dioxide", "methane", "net zero by 2050", "50% reduction"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction", "$50M climate investment", "Climate Committee", "board oversight", "sustainability goals", "significant increased costs", "additional investments in facilities and equipment", "operating net-zero water and energy facilities", "electrifying our transport fleets", "accelerating the use of recycled plastics", "leadership in regenerative agriculture"],
+  "governance": ["Climate Committee", "board oversight"],
+  "strategy_and_risk_management": ["consumer preferences", "climate risks", "supply chain disruption", "adverse effects on our operations", "higher compliance costs", "increased capital expenditures", "investments in the development of technologies", "higher production costs", "interruption or cessation of operations", "relocation of facilities", "failure to achieve goals relating to water use", "perception of failure to act responsibly", "damage to our reputation", "retail landscape", "growth in e-commerce channels", "hard discounters"],
+  "financial_impact": ["losses", "costs", "destruction", "product inventory", "customer fines", "lost sales", "unavailability", "manufacturing facilities", "increased inspection", "federal", "state", "local authorities", "product quality", "safety issues", "consumer confidence", "demand", "production", "delivery disruptions", "temporary or permanent closure", "manufacturing plants", "facilities", "increased costs", "payment of fines", "judgments", "cleaning and remediation costs", "legal fees", "costs associated with alternative sources of production", "reputation damage", "joint ventures", "new categories", "product recalls", "litigation", "government investigations", "inspections", "inquiries", "civil or criminal proceedings", "fines", "penalties", "damages", "criminal liability"]
+}
+ >>>>>>> Final output for performanceFood10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["extreme weather conditions", "natural disasters", "hurricanes", "blizzards", "earthquakes", "flooding", "heatwaves", "cold", "critical infrastructure", "access to facilities", "consumers visiting facilities", "suppliers’ production or shipments", "suppliers’ product costs", "material adverse effect on business", "financial condition", "results of operations", "fuel prices", "transportation costs", "consumer confidence", "discretionary spending", "food away from home", "price we pay for products", "costs incurred to deliver products", "war in the Ukraine", "conflict in the Middle East", "supply and demand for oil and gas"],
+  "ghg_emissions": ["carbon dioxide", "Scope 1 emissions", "net zero by 2050", "climate change", "financial risks", "operational risks", "regulatory bodies", "policies relating to climate change", "greenhouse gas emissions", "energy usage", "sustainability efforts", "compliance costs", "legal or regulatory requirements", "GHG emissions", "environmental impact", "diesel engine emissions", "fuel cost", "capital costs", "distribution and supply chain operations", "electric vehicles", "Scope 1 and 2 GHG emissions targets", "Paris Agreement’s 1.5 °C emissions reduction goal", "technological advancements", "reliable, affordable, and sustainable alternative solutions", "electric and other alternative fuel vehicles", "alternative energy sources"],
+  "targets_and_goals": ["net zero by 2050", "$50M climate investment", "50% reduction", "30% by 2034", "2021 base year", "engage with our suppliers", "40% of our spend", "2034"],
+  "governance": ["Climate Committee", "board oversight", "federal", "state", "local laws", "environmental protection", "safety and health of personnel and public", "use, storage, and disposal of solid and hazardous materials", "petroleum products", "discharge of pollutants into the air and water", "worker safety and health practices and procedures", "vehicle fleets", "regulated underground and aboveground storage tanks for diesel fuel", "limits on diesel emissions", "engine idling", "ammonia- or freon-based refrigeration systems", "propane or battery powered forklifts", "Surface Transportation Board", "Federal Highway Administration", "U.S. Department of Transportation", "Federal Motor Carrier Safety Administration", "drug and alcohol testing", "hours of service", "customs laws", "SEC", "Investors"],
+  "strategy_and_risk_management": ["extreme weather conditions", "natural disasters", "hurricanes", "blizzards", "earthquakes", "flooding", "heatwaves", "cold", "Scope 1 emissions", "carbon dioxide", "net zero by 2050", "$50M climate investment", "carbon pricing", "2.5 million metric tons CO2e", "climate change", "financial risks", "operational risks", "regulatory bodies", "policies relating to climate change", "greenhouse gas emissions", "energy usage", "sustainability efforts", "compliance costs", "legal or regulatory requirements", "GHG emissions", "environmental impact", "diesel engine emissions", "fuel cost", "capital costs", "distribution and supply chain operations", "electric vehicles", "Scope 1 and 2 GHG emissions targets", "Paris Agreement’s 1.5 °C emissions reduction goal", "technological advancements", "reliable, affordable, and sustainable alternative solutions", "electric and other alternative fuel vehicles", "alternative energy sources", "climate-related efforts and performance of our suppliers", "prioritize other business, social, governance, or sustainable investments"],
+  "financial_impact": ["production interruption", "product cost increase", "product recall", "alternate materials", "supplier", "government shutdown", "weather conditions", "crop conditions", "product scarcity", "water shortage", "transportation interruption", "fuel availability", "fuel cost increase", "competitive demand", "contamination", "mold", "bacteria", "catastrophic event", "pandemic", "natural disaster", "social unrest", "customer obligations", "food cost anticipation", "sourcing", "purchasing practice"]
+}
+ >>>>>>> Final output for pfizer10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "disruptions related to climate change, natural disasters, extreme weather, flooding, sea level rise, extreme heat",
+    "physical risks including storm surge, wildfires, drought, storms, tornadoes, inclement weather, pandemics, cyber-attacks on supplier systems, labor disputes, raw materials, components, supply disruptions, shortages, stock-outs, reputational harm, health pandemics, man-made disasters, product liability, unanticipated costs",
+    "transitional risks including disorderly global transition, increased energy prices, customer preference for low or no-carbon products, stakeholder pressure to decarbonize assets, new legal or regulatory requirements"
+  ],
+  "ghg_emissions": [
+    "greenhouse gas (GHG) emissions, Science Based Target Initiative’s voluntary Net-Zero Standard",
+    "Net-Zero Standard by 2040, 95% GHG emissions reduction, 90% value chain emissions reduction from 2019 levels by 2040, Scope 1 emissions including carbon dioxide and methane",
+    "emission reduction plan, strategies for reductions throughout the value chain, investing in new technologies, setting expectations for suppliers to establish science-aligned GHG emission reduction goals"
+  ],
+  "targets_and_goals": [
+    "Net-Zero Standard by 2040, 95% GHG emissions reduction, 90% value chain emissions reduction from 2019 levels by 2040",
+    "$50M climate investment, net zero by 2050, 50% reduction in Scope 1 emissions, 2.5 million metric tons CO2e"
+  ],
+  "governance": [
+    "Climate Committee, board oversight, $50M climate investment, carbon pricing",
+    "corporate governance, transparency, human rights, responsible sourcing, environmental impact, third-party due diligence, equitable access to medicines and vaccines, product quality and safety, human capital, diversity, equity and inclusion"
+  ],
+  "strategy_and_risk_management": [
+    "emission reduction plans, long time horizons, new technologies, capital investment, R&D, government policies, innovation, costs of technologies",
+    "strategies for emission reductions, investing in new technologies, setting expectations for suppliers to establish science-aligned GHG emission reduction goals"
+  ],
+  "financial_impact": [
+    "emission reduction plan-related expenses and capital spending incurred for 2024 were not material to our consolidated financial statements, incremental capital and operational expenditures may have a material effect on our financial position in the near term, long-term uncertainties such as the likelihood of commercially available technologies",
+    "financial impact of meeting the goal, risks associated with climate change"
+  ]
+}
+ >>>>>>> Final output for phillips6610K.pdf <<<<<<<< 
+
+Based on the provided information, it appears you are looking to understand various aspects of Phillips 66's operations, particularly related to its refining segment, renewable fuels, environmental compliance, and financial reporting. Here’s a structured summary focusing on key areas:
+
+### Refining Segment
+
+1. **Operations and Returns**:
+   - **Rodeo Complex**, **Humber Refinery**: These are significant assets contributing to the company's operations.
+   - **Utilization Rates & Product Yield**: Phillips 66 aims for high utilization rates and product yields to enhance operational efficiency.
+
+2. **Financial Performance**:
+   - **Net Cash Provided by Operating Activities**: A key metric indicating cash flow from core business activities.
+   - **Share Repurchases, Dividends**: Financial strategies to return value to shareholders.
+   - **Board of Directors, Share Price**: Governance and market performance indicators.
+
+3. **Operational Excellence**:
+   - **Market Capture & Cost Structure**: Strategies to capture market share and maintain competitive cost structures.
+   - **Refining Segment Returns**: Focus on achieving strong returns from refining operations.
+
+### Renewable Fuels
+
+1. **Regulatory Compliance**:
+   - **Renewable Fuel Standard (RFS)**: Obligations under the RFS, including Renewable Identification Numbers (RINs).
+   - **Renewable Volume Obligations (RVO)**: Meeting volume requirements for renewable fuels.
+
+2. **Market Opportunities**:
+   - **Higher Costs & Regulatory Credits**: Managing higher costs associated with compliance and leveraging regulatory credits.
+   - **Regulatory Credits, Market Renewable Fuels**: Strategies to market renewable fuels effectively.
+
+### Environmental Compliance
+
+1. **GHG Emissions Reduction**:
+   - **Net Zero by 2050 Goals**: Commitment to reduce GHG emissions significantly over the next few decades.
+   - **Scope 1 & Scope 3 Emissions**: Tracking and reporting of direct (Scope 1) and indirect (Scope 3) emissions.
+
+2. **Regulatory Compliance**:
+   - **EPA, State, National Laws**: Adhering to environmental regulations from federal, state, and local authorities.
+   - **GHG Emission Trading Programs**: Participation in cap-and-trade programs like the EU ETS and UK ETS.
+
+### Financial Reporting
+
+1. **Contingent Liabilities**:
+   - **Environmental Remediation Costs**: Accrued costs for cleanup at refineries and service stations.
+   - **Tax and Legal Matters**: Potential liabilities related to environmental compliance and legal disputes.
+
+2. **Financial Metrics**:
+   - **Asset Retirement Balance, Cleanup Costs**: Financial provisions for environmental remediation obligations.
+   - **Discount Rates & Liabilities**: Accrued balances discounted using weighted-average rates.
+
+### Key Challenges
+
+1. **Climate Change & Extreme Weather Events**:
+   - **Net Zero Goals**: Addressing climate change through emissions reduction and renewable energy initiatives.
+   - **Extreme Heat, Sea Level Rise**: Managing risks associated with changing weather patterns.
+
+2. **Operational Hazards**:
+   - **Explosions, Fires, Refinery Releases**: Ensuring safety measures to prevent accidents and manage environmental impacts.
+
+3. **Regulatory Compliance & Legal Risks**:
+   - **Environmental Laws, Remediation Obligations**: Navigating complex regulatory environments and potential legal challenges.
+   - **Tax Incentives/Disincentives**: Leveraging tax incentives while managing disincentives related to emissions.
+
+### Conclusion
+
+Phillips 66 operates in a dynamic environment where it must balance operational efficiency with environmental stewardship. The company faces significant challenges related to climate change, regulatory compliance, and financial reporting. However, through strategic initiatives and robust governance structures, Phillips 66 aims to achieve its sustainability goals while maintaining strong financial performance.
+
+If you need more detailed information on specific areas or have additional questions, feel free to ask!
+ >>>>>>> Final output for plainsGP10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "weather interference",
+    "extreme weather events",
+    "hurricanes",
+    "floods",
+    "wildfires",
+    "drought",
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "catastrophic releases",
+    "pipeline or facility accidents",
+    "information or operations technology failures",
+    "cybersecurity attacks",
+    "data breaches",
+    "disruptions",
+    "climate change regulations",
+    "material adverse effect"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "net zero by 2050",
+    "50% reduction",
+    "GHG reporting requirements",
+    "combustion GHG emissions",
+    "fugitive emissions",
+    "methane emissions",
+    "EPA",
+    "Biden Administration",
+    "federal regulations",
+    "new or more stringent standards",
+    "existing and new sources",
+    "oil and gas sector",
+    "transmission and storage segments",
+    "IRA",
+    "federal fee on excess methane emissions",
+    "Bureau of Land Management",
+    "venting",
+    "flaring",
+    "methane leaks",
+    "state level",
+    "GHG cap-and-trade program",
+    "California",
+    "finished fuels providers",
+    "Plains Marketing",
+    "Plains Midstream Canada",
+    "GHG emission credits",
+    "27",
+    "GHGs",
+    "oil and natural gas production",
+    "regulatory agendas",
+    "fracturing of oil and natural gas wells",
+    "restrictions on flaring and venting",
+    "limitations or bans on oil and gas leases",
+    "increased requirements for construction and permitting",
+    "pipeline infrastructure",
+    "LNG export facilities",
+    "liquid hydrocarbons into the environment",
+    "substantial expense",
+    "clean-up and remediation costs",
+    "fines and penalties",
+    "third-party claims for personal injury or property damage",
+    "pipeline integrity rules",
+    "pipeline integrity management programs",
+    "protection of HCAs",
+    "significant adverse consequences",
+    "new regulations requiring more comprehensive or stringent safety standards",
+    "install new or modified safety controls",
+    "pursue new capital projects",
+    "conduct maintenance programs on an accelerated basis"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "50% reduction",
+    "$50M climate investment",
+    "2.5 million metric tons CO2e"
+  ],
+  "governance": [
+    "Climate Committee",
+    "board oversight",
+    "oil and gas resources",
+    "infrastructure",
+    "midstream assets",
+    "production levels",
+    "Permian Basin",
+    "hydraulic fracturing",
+    "wastewater injection",
+    "disposal",
+    "earthquakes",
+    "subsidence",
+    "crude oil production growth",
+    "customers",
+    "counterparties",
+    "contracts",
+    "creditworthiness",
+    "pipeline integrity management programs",
+    "$100 million in 2024",
+    "$85 million of costs on such projects"
+  ],
+  "strategy_and_risk_management": [
+    "risk management program",
+    "five-year accident history",
+    "offsite consequence analysis process",
+    "prevention program",
+    "emergency response program",
+    "CERCLA",
+    "RCRA",
+    "potentially hazardous liquids",
+    "hydrocarbons",
+    "United States Clean Air Act",
+    "CAA",
+    "federal",
+    "state",
+    "local regulations",
+    "Canadian operations",
+    "federal",
+    "provincial air emission regulations"
+  ],
+  "financial_impact": [
+    "Revenues",
+    "Purchases and related costs",
+    "Field operating costs",
+    "Segment general and administrative expenses",
+    "Other segment items",
+    "Derivative activities",
+    "Long-term inventory costing adjustments",
+    "Equity-indexed compensation expense",
+    "Foreign currency revaluation",
+    "Segment Adjusted EBITDA",
+    "Maintenance capital expenditures"
+  ]
+}
+```
+ >>>>>>> Final output for procterandGamble10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["increasing severity or frequency of extreme weather events due to climate change", "flooding"],
+  "ghg_emissions": ["greenhouse gas emissions", "scopes 1 and 2", "elements of scope 3", "Scope 1 emissions", "carbon dioxide", "methane", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero ambition", "2040 net zero ambition", "net zero by 2050", "50% reduction"],
+  "governance": ["Global Reporting Initiative", "Task Force on Climate-related Financial Disclosures", "materiality", "sustainability reports", "website", "Risk Factors", "business outlook", "quarterly and annual reports", "current reports on Form 8-K", "press releases", "written and oral communications", "board oversight", "Climate Committee", "climate investment", "carbon pricing"],
+  "strategy_and_risk_management": ["Climate Transition Action Plan", "green renewable electricity", "virgin petroleum-based plastic", "recyclable or reusable packaging", "responsible sourcing of key forest-based commodities", "water usage efficiency", "global portfolio of water restoration projects"],
+  "financial_impact": []
+}
+ >>>>>>> Final output for progressive10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "severe weather events including hurricanes, tornadoes, windstorms, floods, earthquakes, hailstorms, severe winter weather, fires, explosions, terrorist attacks, cyberattacks, epidemics, pandemics, and widespread health risks",
+    "catastrophe events such as named storms, thunderstorms, strong winds, heavy rain, large hail, lightning, and tornadoes",
+    "climate change impacts including frequency, severity, duration, geographic location, and scope of severe weather"
+  ],
+  "ghg_emissions": [],
+  "targets_and_goals": [
+    "net zero by 2050"
+  ],
+  "governance": [],
+  "strategy_and_risk_management": [
+    "reinsurance arrangements with coverage limits ($2.1 billion and $1.8 billion), occurrence XOL program, reinstatement limits, and premiums",
+    "catastrophe bonds with a total of $450 million in coverage for named storms and hurricane season, including an aggregate XOL program structure",
+    "retention terms, per occurrence deductible, and event coverage limit"
+  ],
+  "financial_impact": [
+    "loss expenses including labor costs, service delays, lower quality, lawsuits, jury verdicts, punitive damage awards, claims settlement practices, fraudulent claims, inflated claims, loss reserves, actuarial techniques, databases, modeling tools, past loss development patterns, and data changes",
+    "catastrophe losses, climate change, severe weather events, natural disasters, insured damage, profitability, property business, total insured exposure, nature, severity, and duration of the event, reinsurance needs, and catastrophe modeling tools"
+  ]
+}
+ >>>>>>> Final output for prudentialFinancial10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["calamities", "weather-related disasters", "pandemics", "climate change regulation"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction", "$50M climate investment"],
+  "governance": ["Climate Committee", "board oversight"],
+  "strategy_and_risk_management": ["climate change", "long-term impacts", "investor sentiment", "environmental, social, and governance standards", "ESG rules", "regulatory, investor, customer, media, or public scrutiny", "product sales", "expenses"],
+  "financial_impact": ["corporate social responsibility"]
+}
+ >>>>>>> Final output for publixSuperMarkets10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "natural disasters",
+    "public health crises",
+    "international conflicts",
+    "acts of terrorism",
+    "consumer spending reduction",
+    "tax increases",
+    "interest rate increases",
+    "inflation rates increase",
+    "housing costs increase",
+    "fuel and energy costs increase",
+    "health care costs increase"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050"
+  ],
+  "governance": [],
+  "strategy_and_risk_management": [
+    "remediation costs",
+    "business interruption",
+    "adverse publicity",
+    "financial condition",
+    "results of operations",
+    "climate change",
+    "waste management",
+    "environmental laws",
+    "regulations",
+    "compliance costs",
+    "suppliers",
+    "legal proceedings",
+    "lawsuits",
+    "claims",
+    "charges",
+    "employment",
+    "personal injury",
+    "commercial matters",
+    "class action allegations",
+    "litigation"
+  ],
+  "financial_impact": []
+}
+ >>>>>>> Final output for rtx10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "flooding, sea level rise, extreme heat",
+    "acute extreme weather events (hurricanes, tornadoes, floods, snow and ice storms, fires, heat waves, mud slides)",
+    "chronic changes in weather patterns (temperature increases, drought, sea level rise)"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions, carbon dioxide, methane",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050, 50% reduction in greenhouse gas emissions (CO2, methane)"
+  ],
+  "governance": [
+    "$50M climate investment, Climate Committee, board oversight"
+  ],
+  "strategy_and_risk_management": [
+    "addressing climate change, lower emission technologies, low to no carbon products and services, alternative energy sources, sustainable aviation technologies, climate monitoring and adaptation products and services, ESG, environmental sustainability practices, commitments, investments in new technologies, management resources, technological challenges, evolving government and customer requirements, government action, infrastructure investments, market incentives, raw materials availability, supplier adaptability"
+  ],
+  "financial_impact": [
+    "increased energy and raw materials costs, lower emission technologies, new or additional investments in product designs and facility upgrades, capital expenditures, lawsuits, contaminants, medical conditions, cancers, illnesses, employees, former employees, third-parties’ employees, residents, environmental damage, real estate values, toxic tort claims, chemical substances, hazardous substances, wastes, air emissions, water emissions, U.S. government-owned facilities, safe workplace, substantial fines, criminal sanctions, costly equipment, operational changes, pollution emissions, accidental hazardous substance releases, injury to people"
+  ]
+}
+ >>>>>>> Final output for stoneX10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["provisions related to climate change", "provisions related to energy"],
+  "ghg_emissions": [],
+  "targets_and_goals": [],
+  "governance": ["Inflation Reduction Act: 15% corporate minimum tax, 1% excise tax on stock repurchases effective after December 31, 2022, provisions related to climate change, provisions related to energy, provisions related to health care"],
+  "strategy_and_risk_management": [],
+  "financial_impact": []
+}
+ >>>>>>> Final output for sysco10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "material adverse effect, fuel costs, above market fuel costs, results of operations, financial condition, fuel price fluctuations, invasion of Ukraine by the Russian Federation, military conflicts in the Middle East, Organization of the Petroleum Exporting Countries (OPEC), oil and gas producers, regional production patterns, weather conditions, environmental concerns, fuel surcharge program",
+    "work slowdowns, strikes, job actions, short-term weather conditions, 50% reduction",
+    "crop, water shortages, transportation interruptions, shortages of ocean cargo containers, unavailability of fuel, increases in fuel costs, product recalls, competitive demands, civil insurrection, social unrest, terrorist attacks, international hostilities, military conflicts, changes in trade relations and policies, tariffs, trade barriers, natural disasters, epidemics, pandemics, human or animal disease outbreaks, foodborne illnesses, public health crises, certain categories, supply shortages",
+    "higher costs, extreme weather conditions, natural or man-made disasters, climate change, input costs, political or financial instability, military conflict, trade restrictions, tariffs, currency exchange rates, transport capacity and costs, health and safety restrictions, epidemics and pandemics, product pricing levels"
+  ],
+  "ghg_emissions": [
+    "climate change, Scope 1 emissions, carbon dioxide, methane, net zero by 2050, 50% reduction, Climate Committee, board oversight, $50M climate investment, carbon pricing, 2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050, $50M climate investment"
+  ],
+  "governance": [
+    "Climate Committee, board oversight",
+    "sustainability metrics, disclosures required by the SEC, European and other regulators, Corporate Sustainability Reporting Directive (CSRD), California Climate Accountability Package"
+  ],
+  "strategy_and_risk_management": [
+    "climate change, technological advancements, alternative solutions, electric vehicles, alternative energy sources, goals revision, economic factors, regulatory factors, business strategy, media reaction, stockholders, activists, interested stakeholders, negative publicity, greenhouse gas footprint, climate transition costs, technological advancements timeline, regulation or deregulation"
+  ],
+  "financial_impact": [
+    "$382 billion in sales, food-away-from-home industry, U.S. and Canada, diversified product base, quality-assured Sysco brand products, service reliability, ancillary services, business reviews, menu analysis, multi-regional presence, North America, Europe, government regulation, compliance, laws and regulations"
+  ]
+}
+ >>>>>>> Final output for target10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["flooding", "sea level rise", "extreme heat", "natural disasters", "weather conditions", "catastrophic events", "changing climate", "consumer purchasing power", "consumer demand", "acts of violence", "crimes", "active shooter situations", "drought", "rising sea levels", "energy costs", "supply chain disruption", "workforce impact", "store damage", "distribution center damage", "inventory damage", "habitability threats", "physical effects", "extreme weather conditions", "consumer shopping patterns", "lower sales", "greater than expected markdowns", "hurricanes", "tropical storms", "floods", "fires", "earthquakes"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane", "$50M climate investment", "2.5 million metric tons CO2e", "net zero by 2050", "50% reduction"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction"],
+  "governance": ["Climate Committee", "board oversight", "carbon pricing"],
+  "strategy_and_risk_management": ["physical risks", "transition risks", "regulatory risks", "reputational risks", "increased regulation", "energy costs", "supply chain disruption", "workforce impact", "store damage", "distribution center damage", "inventory damage", "habitat threats", "climate change", "commodities", "energy inputs"],
+  "financial_impact": ["merchandise costs", "workforce availability", "transport costs", "capacity", "information security", "cybersecurity", "data privacy", "supply chain requirements", "product safety", "product quality", "payment methods", "legal or regulatory environment", "executive orders", "results of operations", "financial condition", "expenses", "litigation", "investigations", "regulatory proceedings", "reputation", "Foreign Corrupt Practices Act", "anti-bribery laws", "anti-money laundering laws", "import restrictions", "responsible sourcing laws", "sanctions programs"]
+}
+ >>>>>>> Final output for tdSynnex10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "natural disasters, adverse weather conditions, global pandemics, business disruptions that could harm our revenue and financial condition and increase our costs and expenses",
+    "significant operations globally with a particular exposure to hurricanes, tropical storms, earthquakes, and severe weather events"
+  ],
+  "ghg_emissions": [
+    "net-zero greenhouse gas emissions by 2045 (Science Based Targets Initiative, Business Ambition Pledge)",
+    "near-term and long-term emissions-reduction targets",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net-zero by 2050"
+  ],
+  "governance": [],
+  "strategy_and_risk_management": [],
+  "financial_impact": []
+}
+ >>>>>>> Final output for tesla10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["flooding", "sea level rise", "extreme heat", "seismic activity", "flood-prone area", "severe winter storms", "earthquakes", "floods", "natural disasters", "information system or communication breaks down", "production facilities seriously damaged", "stop or delay production and shipment of our products"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction", "$50M climate investment"],
+  "governance": ["Climate Committee", "board oversight"],
+  "strategy_and_risk_management": ["electric vehicles", "federal tax credits", "2032", "zero-emission vehicles", "ZEVs", "greenhouse gas", "fuel economy", "regulatory requirements", "tradable credits", "energy storage system incentives", "policies", "financial mechanisms", "Federal Energy Regulatory Commission", "FERC", "wholesale energy markets", "procurement targets", "behind-the-meter energy storage systems"],
+  "financial_impact": ["$50M climate investment"]
+}
+ >>>>>>> Final output for tjx10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "severe weather, catastrophic events, hurricanes, tornadoes, floods, wildfires, earthquakes, extreme weather, public health crises, pandemics, epidemics, fires or explosions, acts of war or conflict, Russia-Ukraine conflict, conflict in the Middle East, shipping disruptions, Red Sea, domestic or foreign terrorism, riots, active shooter situations",
+    "adverse weather, sales, customer satisfaction, markdowns, operating results, seasonal influences, back-to-school, year-end holiday seasons"
+  ],
+  "ghg_emissions": [
+    "greenhouse gas emissions, waste, water usage, deforestation, biodiversity, human health, local communities, Scope 1 emissions, carbon dioxide, methane, net zero by 2050, 50% reduction, $50M climate investment, carbon pricing, 2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050, 50% reduction",
+    "$50M climate investment"
+  ],
+  "governance": [
+    "Climate Committee, board oversight"
+  ],
+  "strategy_and_risk_management": [
+    "increased costs, commodities, Energy and fuel costs, significant cost increases, price of oil and gasoline, transportation costs for distribution, utility costs, costs to purchase our products from suppliers, derivative instruments, hedging strategy, increased global and U.S. regulation, environmental costs, cap and trade, carbon taxes, emissions management systems, operating costs, shortages or disruptions, geopolitical conflicts, supply chain, freight costs, labor, equipment, capacity shortages, freight hauling, increased interest rates, margins"
+  ],
+  "financial_impact": [
+    "increased costs, commodities, Energy and fuel costs, significant cost increases, price of oil and gasoline, transportation costs for distribution, utility costs, costs to purchase our products from suppliers, derivative instruments, hedging strategy, increased global and U.S. regulation, environmental costs, cap and trade, carbon taxes, emissions management systems, operating costs, shortages or disruptions, geopolitical conflicts, supply chain, freight costs, labor, equipment, capacity shortages, freight hauling, increased interest rates, margins"
+  ]
+}
+ >>>>>>> Final output for travelers10K.pdf <<<<<<<< 
+
+Based on the provided information, here are some key points and insights related to catastrophe losses and weather-related events:
+
+### Catastrophe Losses and Weather-Related Events
+
+1. **High Levels of Catastrophe Losses:**
+   - The company faces high levels of catastrophe losses due to severe weather conditions such as hurricanes, tornadoes, wildfires, and winter storms.
+   - These losses can significantly impact the company's financial performance.
+
+2. **Changing Climate Conditions:**
+   - Increasingly unpredictable and severe weather conditions are leading to higher frequency and severity of claims.
+   - The changing climate is a significant risk factor that could lead to increased catastrophe losses in the future.
+
+3. **Catastrophe Modeling and Uncertainty:**
+   - Catastrophe models provide estimates for potential losses, but there is significant uncertainty due to unpredictable weather patterns.
+   - Models rely on inputs based on experience, science, engineering, and history, which can be volatile and subject to unforeseeable risks.
+
+4. **Reinsurance Programs:**
+   - The company has reinsurance programs in place to mitigate the impact of catastrophic events, but there is uncertainty regarding the collectibility of these reinsurance policies after a disaster.
+   - Recent trends and scientific analysis are used to update models, but this can introduce additional complexity and risk.
+
+5. **Underwriting Strategy:**
+   - The underwriting strategy includes data science, meteorology, climate and flood science, wind engineering, structural engineering, and geophysics to manage risks effectively.
+   - Dedicated teams with industry-leading scientific expertise are involved in risk selection, pricing, capital allocation, and claim response.
+
+6. **Risk Selection and Pricing:**
+   - The company focuses on risk selection and product pricing strategies that consider catastrophe exposure, data science, and underwriting trends.
+   - Policy terms and conditions are continuously reviewed to adapt to changing climate conditions and emerging risks.
+
+7. **Impact of Weather-Related Events:**
+   - Severe weather events such as hurricanes, tornadoes, wildfires, and winter storms can lead to significant losses in specific regions like the Pacific Palisades neighborhood and Eaton Canyon area.
+   - These events can cause damage to insured properties, leading to claims for various types of coverage including general liability, pollution exposures, additional living expenses, and business interruption costs.
+
+8. **Reinsurance Collectibility:**
+   - The timing of a catastrophe and the end of a reporting period can affect reinsurance collectibility.
+   - The company must ensure that it has adequate reserves to cover potential losses and maintain financial stability.
+
+9. **Net Favorable or Unfavorable Reserve Development:**
+   - Net favorable prior year reserve development can impact the company's results, but ongoing review is necessary to adjust for changes in loss cost trends and business mix.
+   - Economic conditions, supply chain issues, international trade, labor market dynamics, and geopolitical tensions can also affect claim costs.
+
+10. **Investment Portfolio Risk:**
+    - The investment portfolio faces credit and interest rate risks, which could result in reduced or low returns or material realized or unrealized losses.
+    - Increased regulation and environmental impact considerations may further complicate the company's financial planning.
+
+### Specific Events
+
+- **January 2025 California Wildfires:** 
+  - Catastrophe losses from these wildfires can be significant, impacting the company’s results of operations.
+  
+- **$1.7 Billion Loss in Southern California:**
+  - This event highlights the potential for substantial financial impact due to severe weather and natural disasters.
+
+### Conclusion
+
+The company must continue to refine its catastrophe modeling, underwriting strategies, and risk management practices to effectively mitigate the risks associated with changing climate conditions and severe weather events. Regular review of reserves and claims handling processes will be crucial in maintaining financial stability and ensuring customer satisfaction.
+ >>>>>>> Final output for tysonFoods10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "Climate change, legal or regulatory response thereto, adverse results from litigation, leverage risks, cost increases due to rising interest rates, changes in debt ratings or outlook, impairment in the carrying value of goodwill, indefinite life intangible assets, participation in a multiemployer pension plan, volatility in capital markets, interest rate volatility, risks associated with commodity purchasing activities, general economic conditions, natural disasters, fire, bioterrorism, pandemics, armed conflicts, extreme weather, failure to maximize or assert intellectual property rights, changes in tax rates, valuation of deferred tax assets and liabilities, tax laws and their interpretation"
+  ],
+  "ghg_emissions": [
+    "Greenhouse Gas Emissions, greenhouse gas emissions, Scope 1 emissions, carbon dioxide, greenhouse gas emission compliance, greenhouse gas emission reduction, greenhouse gas emission removal"
+  ],
+  "targets_and_goals": [],
+  "governance": [],
+  "strategy_and_risk_management": [
+    "Climate change, adverse impact on business and results of operations, long-term adverse impact, changing weather patterns, elongated drought periods, heavier or more frequent storms, wildfires, increased frequency and severity of natural disasters, availability or increase in cost of key agricultural commodities, natural resource ingredients, manufacturing inputs, raw materials such as beef, pork, poultry, corn, soybean meal, other feed ingredients, frequency or severity of extreme weather conditions, impairment of production capabilities, disruption of supply chain, impact on demand for products, unplanned capital expenditures, consumer preferences, legal or regulatory requirements, greenhouse gas emissions, climate risks, environmental impacts, legal or regulatory requirements, increased legal or regulatory requirements, compliance costs, significant changes to business operations and strategy, substantial time, attention, and costs, climate-related disclosures, evolving standards, controls, internal processes, assumptions that are subject to change, new or evolving regulations and legal requirements, U.S. and abroad, costs of aligning current disclosures"
+  ],
+  "financial_impact": [
+    "customer bad debts, non-performance by suppliers, global demand for protein products, sales, operating income, cash flows, value of our investments in equity and debt securities, commodity purchasing activities, record losses related to derivative financial instruments, consumer spending decline, slowing economy or recession, consumer confidence, consumer demand for our products, inflation, operational costs, labor costs, grain and feed ingredient costs, interest rates, economic uncertainty, natural disasters, fire, pandemic, extreme weather"
+  ]
+}
+ >>>>>>> Final output for unitedAirlines10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "flooding",
+    "sea level rise",
+    "extreme heat",
+    "natural disasters",
+    "ATC delays",
+    "weather conditions",
+    "climate change",
+    "extreme or severe weather",
+    "outbreaks of disease",
+    "public health issues"
+  ],
+  "ghg_emissions": [
+    "net zero by 2050",
+    "50% reduction by 2035",
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "methane",
+    "GHG inventory",
+    "GHG reporting",
+    "Greenhouse Gas Protocol",
+    "Scope 1-3 emissions",
+    "biogenic GHG emissions",
+    "SAF for use at ORD",
+    "two suppliers",
+    "strategic electrification of ground service equipment",
+    "5,070 units of the Company's GSE around the world are electric",
+    "38% of its GSE fleet"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "50% reduction by 2035",
+    "$50M climate investment",
+    "2.5 million metric tons CO2e",
+    "SAF mandate",
+    "2% SAF for 2025",
+    "22% SAF for 2040"
+  ],
+  "governance": [
+    "Board",
+    "Public Responsibility Committee",
+    "Climate Committee",
+    "board oversight",
+    "CORSIA",
+    "Carbon Offsetting and Reduction Scheme for International Aviation",
+    "carbon-neutral growth",
+    "United's anticipated CORSIA compliance costs",
+    "2024-2026",
+    "EU Emission Trading System",
+    "flights arriving at or departing from airports outside the EU",
+    "postponed until 2027",
+    "U.S. Environmental Protection Agency",
+    "EPA",
+    "aircraft and aircraft engine GHG emissions standards",
+    "2017 ICAO airplane CO2 emission standards",
+    "FAA",
+    "improved fuel-efficient technologies",
+    "January 1, 2028",
+    "policies that incentivize the production of SAF",
+    "tax credit incentives for the production of SAF",
+    "decarbonize its operations",
+    "regulatory requirements on aviation",
+    "reducing flights",
+    "cost of transitioning to low-carbon alternatives"
+  ],
+  "strategy_and_risk_management": [
+    "improving fuel efficiency in its operations",
+    "reducing its conventional jet fuel consumption",
+    "newer, more fuel-efficient aircraft",
+    "United Next plan",
+    "improving the fuel efficiency of its existing fleet",
+    "fuel efficiency considerations within flight and ground operations",
+    "operational and procedural initiatives to drive fuel conservation",
+    "collaboratively across its organization",
+    "Air Traffic Control improvements",
+    "strategic electrification of ground service equipment",
+    "GSE across its hubs and stations",
+    "5,070 units of the Company's GSE around the world are electric",
+    "38% of its GSE fleet is electric",
+    "collaborating with employees, customers, airports, suppliers, cross-industry partners and policymakers"
+  ],
+  "financial_impact": [
+    "material adverse impact on flight schedule, route network, space, facility, infrastructure constraints, hubs, airline industry, major airports, United States, natural disasters, ATC delays, weather conditions, growth constraints, third-party service providers, cybersecurity incidents, government agencies, regulatory changes, airport facilities, labor relations, market constraints, power supplies, fuel supplies, terrorist activities, international hostilities",
+    "substantial or repeated disruptions to the Company's operations",
+    "natural disasters",
+    "climate change",
+    "power failures",
+    "terrorist attacks",
+    "third-party technology services",
+    "equipment or software failures",
+    "cybersecurity attacks",
+    "insider threats",
+    "security breaches",
+    "5G service networks",
+    "attractiveness of the Company's services may be materially impaired",
+    "negative impact on reputation",
+    "liability to third parties",
+    "regulatory action",
+    "contract termination",
+    "increased costs",
+    "lost revenue",
+    "compromise to the integrity, availability or confidentiality of important data",
+    "substantial or repeated systems failures or disruptions"
+  ]
+}
+```
+ >>>>>>> Final output for unitedHealth10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [],
+  "ghg_emissions": [],
+  "targets_and_goals": [],
+  "governance": [
+    "government regulation, including the Toxic Substances Control Act, Clean Air Act, Clean Water Act, Compensation and Liability Act, CERCLA or Superfund, Resource Conservation and Recovery Act, federal, state, provincial, and local administrative agencies"
+  ],
+  "strategy_and_risk_management": [
+    "increased costs, delays, operating flexibility, competitive disadvantages, penalties, research and development expenditures, personnel, consulting agreements"
+  ],
+  "financial_impact": []
+}
+ >>>>>>> Final output for UPS10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "physical operations, operational security requirements, substantial costs, attack or security breach, materially adversely affect, U.S., international federal, state and local environmental laws, regulations, disclosures, operations and processes, storing, handling and disposing of waste materials, managing waste water and storm water, monitoring and maintaining the integrity of underground storage tanks, laws regarding clean air, emissions, protecting against and appropriately responding to spills and releases, communicating the presence of reportable quantities of hazardous materials, local responders, site- and activity-specific environmental compliance and pollution prevention programs, minimize waste, prevent pollution",
+    "frequency or severity of weather conditions, disasters, availability or cost of insurance, economic risks, political risks, social risks, international operations, emerging markets, volatility, revenues, laws, improper payments to government officials, environmental impact, labor matters, business restrictions, shipments to certain countries, information provided to non-U.S. governments, acquisitions, joint ventures, strategic alliances"
+  ],
+  "ghg_emissions": [
+    "climate change, carbon emissions, carbon neutrality in our global operations by 2050, short- and mid-term environmental sustainability goals",
+    "Global climate change, carbon emissions, carbon neutrality, 2050, short- and mid-term environmental sustainability goals, technological advancements, reliable, affordable and low emission energy solutions, sustainable aviation fuel, alternative fuel and battery electric vehicles, material adverse effect, capital expenditures, other expenses, revenue, results of operations, methodologies for reporting climate-related information, third-party data",
+    "climate change, greenhouse gas emissions, operating costs",
+    "climate change, greenhouse gas (''GHG') emissions, operating costs, taxes, fees, disclosure obligations, compliance obligations, different approaches to climate change regulation and disclosures, federal climate change legislation, Environmental Protection Agency, regulate GHG emissions, substantial costs, ReFuelEU Aviation initiative, European regulation, sustainable aviation fuel (''SAF''), airports inside the European Union",
+    "sustainable aviation fuel, SAF, 2% in 2025, 70% by 2050, operating costs, Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA), voluntary pilot phase in 2021, mandatory participation scheduled to begin in 2027, executive order, withdrawal from the Paris Climate Accords, GHG emissions, aircraft, gasoline or diesel engine emissions",
+    "GHG emissions, material adverse effect, regulation, Scope 1 emissions, carbon dioxide, aircraft emissions, gasoline emissions, diesel engine emissions, fuel cost, capital costs, operating costs, customer demand, disclosure of GHG emissions, operating results"
+  ],
+  "targets_and_goals": [
+    "carbon neutrality in our global operations by 2050, short- and mid-term environmental sustainability goals",
+    "net zero by 2050, 50% reduction",
+    "$50M climate investment",
+    "Climate Committee, board oversight"
+  ],
+  "governance": [
+    "Climate Committee, board oversight, $50M climate investment, carbon pricing, 2.5 million metric tons CO2e"
+  ],
+  "strategy_and_risk_management": [
+    "changes in business strategy, revenue, expenses, government regulations related to climate change, costs of capital, economic or market conditions, fair value, impairment charges, $125 million, $111 million, goodwill, indefinite-lived intangible assets, macroeconomic conditions, risk-free interest rate, volatility of the stock prices of market comparables, goodwill or other impairment charges, material, long-lived assets, definite-lived intangible assets, property, plant and equipment, leases, depreciation"
+  ],
+  "financial_impact": [
+    "material adverse effect, regulatory and legal risks",
+    "net zero by 2050, 50% reduction",
+    "Climate Committee, board oversight",
+    "carbon pricing, 2.5 million metric tons CO2e"
+  ]
+}
+ >>>>>>> Final output for valeroEnergy10K.pdf <<<<<<<< 
+
+Based on the provided information, it appears you are looking to categorize or understand various risks and factors related to a company's operations, particularly in the context of environmental, social, and governance (ESG) issues. Here’s an organized summary:
+
+### Operational Risks
+
+1. **Environmental Compliance**
+   - Atmospheric Emissions NOVs
+     - 2019 Atmospheric Emissions NOV
+     - 2020 Pressure Relief Device NOV
+     - 2021 and 2022 NOVs (BAAD)
+   - Flooding, Sea Level Rise, Extreme Heat
+
+2. **Safety and Health**
+   - Explosions, Fires, Toxic Emissions, Transportation Hazards
+
+3. **Labor Issues**
+   - Strikes, Work Stoppages, Labor Action
+     - Adverse Effects on Business, Financial Condition, Results of Operations, Liquidity
+
+4. **Supply Chain Risks**
+   - Critical Supplies (e.g., Crude Oil, Waste and Renewable Feedstocks)
+   - Corn-Related Co-Products
+   - Litigation and Legal Matters
+
+5. **Financial Risks**
+   - Income Tax Rates, Global Minimum Tax, Taxes, Penalties
+   - Foreign Repatriation of Cash
+   - Currency Exchange Rates (Canadian Dollar, Pound Sterling, Euro, Mexican Peso, Peruvian Sol, U.S. Dollar)
+
+### Regulatory and Compliance Risks
+
+1. **Environmental Regulations**
+   - Atmospheric Emissions and Related Compliance Issues
+   - Flooding, Scope 1 Emissions, Carbon Dioxide, Methane, Net Zero by 2050, 50% Reduction
+   - Climate Committee Oversight
+
+2. **Trade and Tariffs**
+   - Duties and Tariffs
+   - Import and Export Controls
+   - Trade Restrictions, Expropriation, Impoundment of Assets
+
+3. **Permits and Authorizations**
+   - Federal, State, Local Jurisdictions
+
+4. **Credit Risk**
+   - Credit Ratings, Debt Securities, Trade Credit
+
+### Low-Carbon Growth Capital Investments
+
+1. **GHG Emissions Reduction/Displacement Targets**
+2. **Low-Carbon Projects**
+
+### Climate-Related Litigation and Disclosure Risks
+
+1. **Climate-Related Matters**
+   - Greenwashing, Deceptive Trade Practices
+   - Consumer Protection Statutes, Corporate or Securities Laws and Regulations
+   - Net-Zero Targets, Carbon Neutrality Targets
+
+2. **Sustainability-Related Matters**
+   - Liability, Reputational Damage
+
+3. **Disclosure Requirements**
+   - GHG Emissions Reporting, Climate-Related Financial-Risk Reporting
+   - Corporate Sustainability Reporting Directive, Corporate Sustainability Due Diligence Directive
+
+### Technology and Innovation Risks
+
+1. **Technology Adoption and Mandates**
+2. **Bans on Certain Fuels**
+
+### Product Mix and Market Risks
+
+1. **Renewable and Low-Carbon Fuel Programs**
+   - Compliance Credits (RINs)
+   - Renewable Fuel Standard, California Low Carbon Fuel Standard, Canada Clean Fuel Regulations, U.K. Renewable Transport Fuel Obligation
+   - Petroleum-Based Transportation Fuels
+
+2. **Blending and Incentives**
+   - Tax Credits, Efficiency Standards, Benefits
+
+### Long-Term Ambition
+
+1. **Net Zero by 2050**
+2. **50% Reduction in GHG Emissions**
+
+This categorization helps to identify key areas of risk and opportunity for the company, particularly focusing on environmental sustainability, regulatory compliance, financial stability, and operational resilience.
+ >>>>>>> Final output for verizon10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["flooding", "extreme weather conditions", "global climate change", "increasing prevalence and intensity of hurricanes", "wildfires", "storms", "public health crises", "regulatory environment", "restrictions on operation", "allegations regarding release of hazardous materials", "government investigations", "litigation", "penalties", "liability", "remediation", "compliance costs", "operational impacts", "reputational damage", "high level of indebtedness", "significant litigation", "material expenses", "adverse change in ratings", "credit markets", "benefit plan costs", "investment returns", "tax laws", "tax regulations", "additional tax expense"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "net zero by 2050", "greenhouse gas emissions", "carbon policies", "tax on such emissions", "policy-driven changes", "prices of fuel or energy", "costs for us to purchase energy", "operating those vehicles", "traditional fuels", "significant increases in costs", "restrict our ability to compete", "limit the return we can expect", "changes in tax laws and regulations", "tax positions"],
+  "targets_and_goals": ["net zero by 2050", "$50M climate investment"],
+  "governance": ["Climate Committee", "board oversight"],
+  "strategy_and_risk_management": ["global supply chain", "geopolitical factors", "transitioning from one supplier to another", "cost", "time lag", "material adverse effect"],
+  "financial_impact": []
+}
+ >>>>>>> Final output for walgreens10K.pdf <<<<<<<< 
+
+```json
+{
+  "climate_risks": [
+    "extreme weather",
+    "rising sea levels",
+    "physical risks",
+    "transition risks",
+    "regulatory or technology changes",
+    "availability and cost of products",
+    "commodities and energy",
+    "procure goods or services",
+    "utilities we use",
+    "natural gas",
+    "diesel fuel",
+    "gasoline",
+    "electricity",
+    "climate change effects",
+    "operations and facilities",
+    "physical damage to stores",
+    "distribution or fulfillment centers",
+    "loss or spoilage of inventory",
+    "business interruption",
+    "insurance arrangements",
+    "catastrophic in nature",
+    "material adverse impact"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "natural gas",
+    "diesel fuel",
+    "gasoline",
+    "electricity",
+    "2.5 million metric tons CO2e"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "$50M climate investment",
+    "carbon pricing",
+    "50% reduction in Scope 1 emissions and methane emissions"
+  ],
+  "governance": [
+    "Climate Committee",
+    "board oversight",
+    "U.S. Retail Pharmacy segment",
+    "exit and disposal charges",
+    "lease obligations",
+    "asset impairments",
+    "employee severance",
+    "IT transformation",
+    "exit costs",
+    "transition adjustments"
+  ],
+  "strategy_and_risk_management": [
+    "Footprint Optimization Program",
+    "close underperforming stores",
+    "optimize its footprint",
+    "Board of Directors",
+    "October 14, 2024",
+    "approximately 900 to 1,000 stores",
+    "primarily across the U.S.",
+    "by the end of fiscal 2027",
+    "estimated cash flow benefits"
+  ],
+  "financial_impact": [
+    "dividends",
+    "Scope 1 emissions",
+    "carbon dioxide",
+    "net zero by 2050",
+    "$50M climate investment",
+    "carbon pricing",
+    "2.5 million metric tons CO2e"
+  ]
+}
+```
+ >>>>>>> Final output for walmart10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": [
+    "extreme weather-related events, including hurricanes, tropical storms, typhoons, floods, wildfires, cyclones, tornadoes, winter storms, droughts, extreme temperatures, earthquakes, tsunamis, war, civil unrest, terrorist attacks, active shooter situations",
+    "physical damage, complete loss, closure of stores, clubs, distribution or fulfillment centers, limitations on store or club operating hours, inadequate workforce, evacuation of the populace, unavailability of digital platforms, changes in purchasing patterns, frequency of visits by consumers to physical retail locations, temporary or long-term disruption in the supply of products",
+    "supply chain disruption due to hurricanes Helene and Milton in the Southeastern U.S., economic sanctions, fuel prices, fuel supply, critical infrastructure systems, banking systems, utility services, energy availability, communications with stores and facilities",
+    "extreme weather conditions, drought, rising sea levels, regulatory or technology changes, temperature changes, heating and cooling costs, production or sourcing of certain commodities, flooding, extreme storms, damage or destruction of buildings and inventory, disruption of electrical grids or utilities, heat and extreme weather events, changes in energy and commodity prices, prolonged climate-related events, macroeconomic conditions, consumer spending and confidence, stakeholder perception of engagement in climate-related policies, new regulatory requirements, higher compliance risk, operational costs",
+    "physical damage, destruction, theft, loss, spoilage, business interruption, operational costs, climate-related policies, regulatory requirements, higher compliance risk, materially adverse effect on financial performance, U.S., suppliers, global sourcing, labor laws, safety laws, anti-corruption laws, environmental laws",
+    "extreme weather events, supply chain disruption, production, labor shortages, increases in labor costs, financial instability, indemnification obligations, responsible sourcing standards"
+  ],
+  "ghg_emissions": [
+    "Scope 1 emissions, carbon dioxide, methane, net zero by 2050, 50% reduction",
+    "net zero by 2050"
+  ],
+  "targets_and_goals": [
+    "net zero by 2050",
+    "reducing emissions, Clean Air Act, monetary sanctions"
+  ],
+  "governance": [
+    "$50M climate investment, carbon pricing, Climate Committee, board oversight"
+  ],
+  "strategy_and_risk_management": [],
+  "financial_impact": [
+    "catastrophic events, weather, climate change, global health epidemics, pandemics",
+    "competitive pressures, consumer disposable income, consumer debt levels, buying patterns, consumer credit availability, disruptions in supply chain, inventory management, cost of goods, currency exchange rate fluctuations, customer preferences, inflation, deflation, fuel and energy prices, general economic conditions, insurance costs, interest rates, labor availability, tax rates, tariffs, cybersecurity attacks, unemployment"
+  ]
+}
+ >>>>>>> Final output for waltDisney10K.pdf <<<<<<<< 
+
+{
+  "climate_risks": ["adverse weather conditions", "natural disasters", "flooding", "sea level rise", "extreme heat", "supply chain disruptions", "cyber-related attacks", "widespread computing failures", "Hurricanes Helene", "Hurricane Milton"],
+  "ghg_emissions": ["Scope 1 emissions", "carbon dioxide", "methane", "2.5 million metric tons CO2e"],
+  "targets_and_goals": ["net zero by 2050", "50% reduction"],
+  "governance": ["Climate Committee", "board oversight", "$50M climate investment", "climate-related disclosures"],
+  "strategy_and_risk_management": ["greenhouse gas emissions", "financial information", "severe weather events", "natural conditions", "2026 fiscal year"],
+  "financial_impact": ["processing outages", "widespread computing failures", "Hurricanes Helene", "Hurricane Milton", "Walt Disney World Resort theme parks", "Florida", "sanctions", "trade restrictions", "affiliate fees", "royalties", "distribution of our programming", "sales of our licensed goods and services", "management of businesses operated under brands", "third-party licensees", "sellers of our licensed goods and services", "third-party suppliers"]
+}
