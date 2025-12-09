@@ -24,7 +24,10 @@ import {
   Zap,
   Pencil,
   Save,
-  X
+  X,
+  Image,
+  ImagePlus,
+  Upload
 } from 'lucide-react';
 
 // --- LANGCHAIN IMPORTS (OpenAI) ---
@@ -261,6 +264,48 @@ FORMATTING INSTRUCTIONS:
   }
 };
 
+// --- DALL-E Image Generation ---
+const generatePostImage = async (postContent, topic) => {
+  if (!OPENAI_API_KEY) {
+    console.warn("No OpenAI API key found for image generation");
+    return null;
+  }
+
+  console.log("🎨 Generating image for post...");
+
+  const imagePrompt = `Professional social media image for an indoor golf facility. ${topic ? `Theme: ${topic}.` : ''} Style: Modern, clean, high-quality photography style. Golf simulator, indoor golf bay, or golfer practicing. Warm lighting, premium feel. No text or logos.`;
+
+  try {
+    const response = await fetch('https://api.openai.com/v1/images/generations', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${OPENAI_API_KEY}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        model: "dall-e-3",
+        prompt: imagePrompt,
+        n: 1,
+        size: "1024x1024",
+        quality: "standard"
+      })
+    });
+
+    const data = await response.json();
+    
+    if (data.data && data.data[0]?.url) {
+      console.log("✅ Image generated successfully");
+      return data.data[0].url;
+    }
+    
+    console.error("Image generation failed:", data);
+    return null;
+  } catch (error) {
+    console.error("DALL-E Error:", error);
+    return null;
+  }
+};
+
 // --- Components ---
 
 const Header = ({ activeTab, setActiveTab }) => (
@@ -268,13 +313,16 @@ const Header = ({ activeTab, setActiveTab }) => (
     <div className="container mx-auto px-6 py-4 flex flex-col md:flex-row justify-between items-center">
       <div className="flex items-center space-x-4 mb-4 md:mb-0">
         {/* Logo - white on green */}
-        <div className="flex items-center">
+        <button 
+          onClick={() => setActiveTab('dashboard')}
+          className="flex items-center hover:opacity-80 transition-opacity cursor-pointer"
+        >
           <span className="text-white text-2xl font-serif tracking-tight">ALTA</span>
           <div className="mx-1">
             <Flag className="w-5 h-5 text-[#C5A048]" />
           </div>
           <span className="text-white text-2xl font-serif tracking-tight">VIEW</span>
-        </div>
+        </button>
         <div className="hidden md:block h-6 w-px bg-white/30"></div>
         <p className="text-white/70 text-xs tracking-[0.15em] uppercase hidden md:block">Content Manager</p>
       </div>
@@ -647,7 +695,7 @@ const KnowledgeBase = ({ user, appId }) => {
 };
 
 const ContentGenerator = ({ user, appId }) => {
-  const [selectedPlatforms, setSelectedPlatforms] = useState(['Instagram']); // Now supports multiple
+  const [selectedPlatforms, setSelectedPlatforms] = useState([]); // No platforms selected by default
   const [tone, setTone] = useState('');
   const [topic, setTopic] = useState(''); 
   const [promoMessage, setPromoMessage] = useState(''); // NEW: Discount/promo message
@@ -658,6 +706,7 @@ const ContentGenerator = ({ user, appId }) => {
   const [editingId, setEditingId] = useState(null); // Track which post is being edited
   const [editContent, setEditContent] = useState(''); // Temporary edit content
   const [platformFilter, setPlatformFilter] = useState('all'); // 'all', 'Instagram', 'Facebook', 'LinkedIn'
+  const [enableImageGeneration, setEnableImageGeneration] = useState(false); // AI image generation toggle
 
   useEffect(() => {
     if (!user) return;
@@ -698,6 +747,12 @@ const ContentGenerator = ({ user, appId }) => {
       console.error("Error fetching context", e);
     }
 
+    // Generate image once if enabled (shared across all platforms)
+    let imageUrl = null;
+    if (enableImageGeneration) {
+      imageUrl = await generatePostImage(topic, topic);
+    }
+
     // Generate a post for EACH selected platform
     for (const platform of selectedPlatforms) {
       const content = await generateSocialPost(platform, knowledgeDocs, tone, topic, promoMessage, enableWebSearch);
@@ -711,7 +766,8 @@ const ContentGenerator = ({ user, appId }) => {
           tone: tone || 'Default',
           topic: topic || 'General',
           promoMessage: promoMessage || null,
-          webSearchEnabled: enableWebSearch
+          webSearchEnabled: enableWebSearch,
+          imageUrl: imageUrl || null
         });
       } catch (e) {
         console.error(e);
@@ -747,6 +803,59 @@ const ContentGenerator = ({ user, appId }) => {
     setEditContent('');
   };
 
+  const handleImageUpload = async (postId, file) => {
+    if (!file) return;
+    
+    // Compress and resize image before storing
+    const compressImage = (file, maxWidth = 800, quality = 0.7) => {
+      return new Promise((resolve) => {
+        const reader = new FileReader();
+        reader.onload = (e) => {
+          const img = new window.Image();
+          img.onload = () => {
+            const canvas = document.createElement('canvas');
+            let width = img.width;
+            let height = img.height;
+            
+            // Resize if too large
+            if (width > maxWidth) {
+              height = (height * maxWidth) / width;
+              width = maxWidth;
+            }
+            
+            canvas.width = width;
+            canvas.height = height;
+            
+            const ctx = canvas.getContext('2d');
+            ctx.drawImage(img, 0, 0, width, height);
+            
+            // Convert to compressed JPEG
+            const compressedDataUrl = canvas.toDataURL('image/jpeg', quality);
+            resolve(compressedDataUrl);
+          };
+          img.src = e.target.result;
+        };
+        reader.readAsDataURL(file);
+      });
+    };
+    
+    try {
+      const compressedImage = await compressImage(file);
+      await updateDoc(doc(db, 'artifacts', appId, 'public', 'data', 'generated_content', postId), { 
+        imageUrl: compressedImage 
+      });
+    } catch (err) {
+      console.error("Image upload error:", err);
+      alert("Image is too large. Please try a smaller image.");
+    }
+  };
+
+  const removeImage = async (postId) => {
+    await updateDoc(doc(db, 'artifacts', appId, 'public', 'data', 'generated_content', postId), { 
+      imageUrl: null 
+    });
+  };
+
   return (
     <div className="space-y-6 animate-fadeIn">
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-6">
@@ -766,6 +875,7 @@ const ContentGenerator = ({ user, appId }) => {
                   setTopic('');
                   setPromoMessage('');
                   setEnableWebSearch(false);
+                  setEnableImageGeneration(false);
                 }}
                 className="flex items-center text-xs text-slate-400 hover:text-slate-600 transition-colors"
                 title="Reset all settings"
@@ -870,7 +980,7 @@ const ContentGenerator = ({ user, appId }) => {
               <div className="p-3 bg-[#3D5A3D]/5 rounded-lg border border-[#3D5A3D]/20">
                 <div className="flex items-center justify-between">
                   <div className="flex items-center">
-                    <Search className="w-4 h-4 text-black mr-2" />
+                    <Search className="w-4 h-4 text-[#3D5A3D] mr-2" />
                     <label className="text-xs font-bold text-[#3D5A3D]">Web Search Tool</label>
                   </div>
                   <button
@@ -893,6 +1003,37 @@ const ContentGenerator = ({ user, appId }) => {
                   <div className="mt-2 flex items-center text-[10px] text-[#C5A048]">
                     <Zap className="w-3 h-3 mr-1" />
                     Powered by SerperDev
+                  </div>
+                )}
+              </div>
+
+              {/* AI Image Generation Toggle */}
+              <div className="p-3 bg-[#C5A048]/5 rounded-lg border border-[#C5A048]/20">
+                <div className="flex items-center justify-between">
+                  <div className="flex items-center">
+                    <ImagePlus className="w-4 h-4 text-[#C5A048] mr-2" />
+                    <label className="text-xs font-bold text-[#3D5A3D]">AI Image Generation</label>
+                  </div>
+                  <button
+                    onClick={() => setEnableImageGeneration(!enableImageGeneration)}
+                    className={`relative w-11 h-6 rounded-full transition-colors ${
+                      enableImageGeneration ? 'bg-[#C5A048]' : 'bg-slate-300'
+                    }`}
+                  >
+                    <span className={`absolute top-1 left-1 w-4 h-4 bg-white rounded-full transition-all duration-200 shadow ${
+                      enableImageGeneration ? 'translate-x-5' : 'translate-x-0'
+                    }`} />
+                  </button>
+                </div>
+                <p className="text-[10px] text-slate-500 mt-2">
+                  {enableImageGeneration 
+                    ? "🎨 Creates a custom image for your post" 
+                    : "📝 Text-only post (no image)"}
+                </p>
+                {enableImageGeneration && (
+                  <div className="mt-2 flex items-center text-[10px] text-[#C5A048]">
+                    <Sparkles className="w-3 h-3 mr-1" />
+                    Powered by DALL-E 3
                   </div>
                 )}
               </div>
@@ -1032,6 +1173,31 @@ const ContentGenerator = ({ user, appId }) => {
                     </div>
                   )}
                   
+                  {/* Post Image */}
+                  {post.imageUrl && (
+                    <div className="relative group">
+                      <img 
+                        src={post.imageUrl} 
+                        alt="Post image" 
+                        className="w-full h-48 object-cover rounded-lg border border-slate-200"
+                      />
+                      <div className="absolute top-2 left-2 bg-black/50 text-white text-[10px] px-2 py-1 rounded-full flex items-center">
+                        {post.imageUrl.startsWith('data:') ? (
+                          <><Upload className="w-3 h-3 mr-1" />Uploaded</>
+                        ) : (
+                          <><Sparkles className="w-3 h-3 mr-1" />AI Generated</>
+                        )}
+                      </div>
+                      <button 
+                        onClick={() => removeImage(post.id)}
+                        className="absolute top-2 right-2 p-1.5 bg-slate-200 text-[#3D5A3D] rounded-full hover:bg-slate-300 transition-colors"
+                        title="Remove Image"
+                      >
+                        <X size={14} />
+                      </button>
+                    </div>
+                  )}
+                  
                   <div className="flex justify-between items-center text-xs text-slate-400">
                     <div>Tone: <span className="text-black/70 italic">{post.tone}</span></div>
                     {post.topic && (
@@ -1059,6 +1225,18 @@ const ContentGenerator = ({ user, appId }) => {
                       >
                         <Pencil size={20} />
                       </button>
+                      <label 
+                        className="p-2 bg-blue-50 text-blue-600 rounded-lg hover:bg-blue-100 transition-colors cursor-pointer"
+                        title={post.imageUrl ? "Replace Image" : "Upload Image"}
+                      >
+                        <Upload size={20} />
+                        <input 
+                          type="file" 
+                          accept="image/*"
+                          className="hidden"
+                          onChange={(e) => handleImageUpload(post.id, e.target.files[0])}
+                        />
+                      </label>
                       <button 
                          onClick={() => deletePost(post.id)}
                          className="p-2 bg-red-50 text-red-600 rounded-lg hover:bg-red-100 transition-colors"
@@ -1077,6 +1255,18 @@ const ContentGenerator = ({ user, appId }) => {
                       >
                         <Pencil size={20} />
                       </button>
+                      <label 
+                        className="p-2 bg-blue-50 text-blue-600 rounded-lg hover:bg-blue-100 transition-colors cursor-pointer"
+                        title={post.imageUrl ? "Replace Image" : "Upload Image"}
+                      >
+                        <Upload size={20} />
+                        <input 
+                          type="file" 
+                          accept="image/*"
+                          className="hidden"
+                          onChange={(e) => handleImageUpload(post.id, e.target.files[0])}
+                        />
+                      </label>
                       <button 
                         onClick={() => updateStatus(post.id, 'Draft')}
                         className="p-2 bg-slate-100 text-slate-500 rounded-lg hover:bg-slate-200 transition-colors text-xs font-medium"

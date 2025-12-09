@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Golf hole -->
+  <ellipse cx="16" cy="28" rx="8" ry="3" fill="#3D5A3D"/>
+  <!-- Flag pole -->
+  <rect x="15" y="4" width="2" height="24" fill="#3D5A3D"/>
+  <!-- Flag -->
+  <path d="M17 4 L17 14 L27 9 Z" fill="#C5A048"/>
+</svg>
+
