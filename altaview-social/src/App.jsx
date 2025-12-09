@@ -22,6 +22,11 @@ import {
   BrainCircuit
 } from 'lucide-react';
 
+// --- LANGCHAIN IMPORTS (OpenAI) ---
+import { ChatOpenAI } from "@langchain/openai";
+import { PromptTemplate } from "@langchain/core/prompts";
+import { StringOutputParser } from "@langchain/core/output_parsers";
+
 // --- CONFIGURATION ---
 const firebaseConfig = {
   apiKey: "AIzaSyAzi4Wc5wGBJnHmPhuXqwgDIx0uKds-4EE",
@@ -32,8 +37,8 @@ const firebaseConfig = {
   appId: "1:581643026310:web:c2e28a7e9ddbcf7fa27607"
 };
 
-// LOAD API KEY
-const GEMINI_API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
+// LOAD API KEY (OpenAI)
+const OPENAI_API_KEY = import.meta.env.VITE_OPENAI_API_KEY;
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
@@ -42,94 +47,113 @@ const db = getFirestore(app);
 
 const appId = "altaview-social";
 
-// --- AGENT 1: The Analyst (Ingestion & Categorization) ---
-// This agent runs immediately when data is added. It organizes the raw text.
+// --- LANGCHAIN: Initialize OpenAI LLM ---
+const getLLM = () => {
+  if (!OPENAI_API_KEY) {
+    console.warn("No OpenAI API key found! Make sure VITE_OPENAI_API_KEY is set in .env");
+    return null;
+  }
+  console.log("Creating LangChain OpenAI LLM with API key...");
+  return new ChatOpenAI({
+    apiKey: OPENAI_API_KEY,
+    model: "gpt-4o-mini",
+    temperature: 0.7,
+  });
+};
+
+// --- AGENT 1: The Analyst (Ingestion & Categorization) using LangChain ---
 const analyzeAndCategorize = async (rawText) => {
-  if (!GEMINI_API_KEY) return { category: "Uncategorized", summary: rawText };
-
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key=${GEMINI_API_KEY}`;
+  console.log("Agent 1 (LangChain) - Starting analysis for:", rawText.substring(0, 50) + "...");
   
-  const prompt = `
-    You are a Data Analyst for Alta View Golf Club.
-    Analyze the following raw text input: "${rawText}"
-    
-    1. Categorize it into exactly ONE of these buckets: [Competitor Intel, Customer Sentiment, Business Feature, Event/Promo].
-    2. Write a 1-sentence clean summary of the key fact.
+  const llm = getLLM();
+  if (!llm) {
+    console.warn("LLM not initialized, using fallback");
+    return { category: "Uncategorized", summary: rawText };
+  }
 
-    Return the result in this exact JSON format (no markdown):
-    { "category": "...", "summary": "..." }
-  `;
+  // LangChain PromptTemplate for structured output
+  const analystPrompt = PromptTemplate.fromTemplate(`
+You are a Data Analyst for Alta View Golf Club.
+Analyze the following raw text input: "{rawText}"
+
+1. Categorize it into exactly ONE of these buckets: [Competitor Intel, Customer Sentiment, Business Feature, Event/Promo].
+2. Write a 1-sentence clean summary of the key fact.
+
+Return the result in this exact JSON format (no markdown, no code blocks):
+{{"category": "...", "summary": "..."}}
+`);
 
   try {
-    const response = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
-    });
+    console.log("Agent 1 - Creating LangChain chain...");
+    // Create LangChain chain: Prompt -> LLM -> Output Parser
+    const chain = analystPrompt.pipe(llm).pipe(new StringOutputParser());
     
-    const data = await response.json();
-    const textRes = data.candidates?.[0]?.content?.parts?.[0]?.text;
+    console.log("Agent 1 - Invoking chain...");
+    // Invoke the chain
+    const result = await chain.invoke({ rawText });
+    console.log("Agent 1 - Got result:", result);
     
-    // Simple parsing (removing code blocks if AI adds them)
-    const cleanJson = textRes.replace(/```json|```/g, '').trim();
+    // Parse the JSON response
+    const cleanJson = result.replace(/```json|```/g, '').trim();
     return JSON.parse(cleanJson);
   } catch (error) {
-    console.error("Analyst Agent Error:", error);
+    console.error("Analyst Agent (LangChain) Error:", error);
+    console.error("Error details:", error.message);
     return { category: "Raw Data", summary: rawText }; // Fallback if AI fails
   }
 };
 
-// --- AGENT 2: The Creator (Content Generation) ---
-// This agent uses the analyzed data to write the final post.
+// --- AGENT 2: The Creator (Content Generation) using LangChain ---
 const generateSocialPost = async (platform, contextItems, tone, specificTopic) => {
-  if (!GEMINI_API_KEY) {
-    alert("Gemini API Key is missing. Please check your .env file.");
-    return "Error: Gemini API Key is missing.";
+  const llm = getLLM();
+  if (!llm) {
+    alert("OpenAI API Key is missing. Please add VITE_OPENAI_API_KEY to your .env file.");
+    return "Error: OpenAI API Key is missing.";
   }
 
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-09-2025:generateContent?key=${GEMINI_API_KEY}`;
-
-  // NOTE: We now use the "summary" and "category" fields from Agent 1!
+  // Build context from Agent 1's processed data
   const contextText = contextItems.map(item => 
     `[${item.category || 'Info'}]: ${item.summary || item.content}`
   ).join('\n');
   
-  let taskInstruction = "";
-  if (specificTopic && specificTopic.trim() !== "") {
-    taskInstruction = `Write a post specifically about: "${specificTopic}".`;
-  } else {
-    taskInstruction = `Choose the most compelling info from the Context Data below.`;
-  }
+  const taskInstruction = (specificTopic && specificTopic.trim() !== "")
+    ? `Write a post specifically about: "${specificTopic}".`
+    : `Choose the most compelling info from the Context Data below.`;
 
-  const prompt = `
-    You are a social media manager for 'Alta View Indoor Golf Club'.
-    
-    TONE: ${tone}
-    PLATFORM: ${platform}
-    
-    Task:
-    ${taskInstruction}
+  // LangChain PromptTemplate for content generation
+  const creatorPrompt = PromptTemplate.fromTemplate(`
+You are a social media manager for 'Alta View Indoor Golf Club'.
 
-    CONTEXT DATA (Analyzed & Categorized):
-    ${contextText}
+TONE: {tone}
+PLATFORM: {platform}
 
-    Constraints:
-    - Include relevant hashtags.
-    - Keep it under 280 chars for Twitter, else ~100 words.
-    - Return ONLY the post text.
-  `;
+Task:
+{taskInstruction}
+
+CONTEXT DATA (Analyzed & Categorized by Agent 1):
+{contextText}
+
+Constraints:
+- Include relevant hashtags.
+- Keep it under 280 chars for Twitter, else ~100 words.
+- Return ONLY the post text.
+`);
 
   try {
-    const response = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }] })
+    // Create LangChain chain: Prompt -> LLM -> Output Parser
+    const chain = creatorPrompt.pipe(llm).pipe(new StringOutputParser());
+    
+    // Invoke the chain
+    const result = await chain.invoke({
+      tone,
+      platform,
+      taskInstruction,
+      contextText
     });
     
-    const data = await response.json();
-    return data.candidates?.[0]?.content?.parts?.[0]?.text || "Failed to generate content.";
+    return result || "Failed to generate content.";
   } catch (error) {
-    console.error("Creator Agent Error:", error);
+    console.error("Creator Agent (LangChain) Error:", error);
     return "Error connecting to AI service.";
   }
 };
@@ -451,8 +475,8 @@ const ContentGenerator = ({ user, appId }) => {
   }, [user, appId]);
 
   const handleGenerate = async () => {
-    if (!GEMINI_API_KEY) {
-      alert("Gemini API Key is missing. Check .env file.");
+    if (!OPENAI_API_KEY) {
+      alert("OpenAI API Key is missing. Check .env file.");
       return;
     }
     
