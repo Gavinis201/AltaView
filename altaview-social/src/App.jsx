@@ -698,7 +698,9 @@ const ContentGenerator = ({ user, appId }) => {
   const [selectedPlatforms, setSelectedPlatforms] = useState([]); // No platforms selected by default
   const [tone, setTone] = useState('');
   const [topic, setTopic] = useState(''); 
+  const [customTopic, setCustomTopic] = useState(''); // Custom topic input
   const [promoMessage, setPromoMessage] = useState(''); // NEW: Discount/promo message
+  const [customPromo, setCustomPromo] = useState(''); // Custom promo input
   const [isGenerating, setIsGenerating] = useState(false);
   const [posts, setPosts] = useState([]);
   const [enableWebSearch, setEnableWebSearch] = useState(false); // Web search toggle
@@ -747,15 +749,19 @@ const ContentGenerator = ({ user, appId }) => {
       console.error("Error fetching context", e);
     }
 
+    // Get actual topic and promo values (use custom if selected)
+    const actualTopic = topic === 'custom' ? customTopic : topic;
+    const actualPromo = promoMessage === 'custom' ? customPromo : promoMessage;
+
     // Generate image once if enabled (shared across all platforms)
     let imageUrl = null;
     if (enableImageGeneration) {
-      imageUrl = await generatePostImage(topic, topic);
+      imageUrl = await generatePostImage(actualTopic, actualTopic);
     }
 
     // Generate a post for EACH selected platform
     for (const platform of selectedPlatforms) {
-      const content = await generateSocialPost(platform, knowledgeDocs, tone, topic, promoMessage, enableWebSearch);
+      const content = await generateSocialPost(platform, knowledgeDocs, tone, actualTopic, actualPromo, enableWebSearch);
 
       try {
         await addDoc(collection(db, 'artifacts', appId, 'public', 'data', 'generated_content'), {
@@ -764,8 +770,8 @@ const ContentGenerator = ({ user, appId }) => {
           status: 'Draft',
           createdAt: serverTimestamp(),
           tone: tone || 'Default',
-          topic: topic || 'General',
-          promoMessage: promoMessage || null,
+          topic: actualTopic || 'General',
+          promoMessage: actualPromo || null,
           webSearchEnabled: enableWebSearch,
           imageUrl: imageUrl || null
         });
@@ -873,7 +879,9 @@ const ContentGenerator = ({ user, appId }) => {
                   setSelectedPlatforms([]);
                   setTone('');
                   setTopic('');
+                  setCustomTopic('');
                   setPromoMessage('');
+                  setCustomPromo('');
                   setEnableWebSearch(false);
                   setEnableImageGeneration(false);
                 }}
@@ -938,7 +946,10 @@ const ContentGenerator = ({ user, appId }) => {
                 <label className="block text-xs font-bold text-slate-500 uppercase mb-2">Topic / Focus</label>
                 <select 
                   value={topic}
-                  onChange={(e) => setTopic(e.target.value)}
+                  onChange={(e) => {
+                    setTopic(e.target.value);
+                    if (e.target.value !== 'custom') setCustomTopic('');
+                  }}
                   className="w-full p-2 border border-slate-200 rounded-lg text-sm bg-slate-50 focus:ring-2 focus:ring-[#C5A048] outline-none"
                 >
                   <option value="">None</option>
@@ -952,7 +963,16 @@ const ContentGenerator = ({ user, appId }) => {
                   <option value="Corporate Events">Corporate Events</option>
                   <option value="Holiday Hours">Holiday Hours</option>
                   <option value="Gift Cards">Gift Cards</option>
+                  <option value="custom">Custom...</option>
                 </select>
+                {topic === 'custom' && (
+                  <textarea
+                    value={customTopic}
+                    onChange={(e) => setCustomTopic(e.target.value)}
+                    placeholder="Enter your custom topic..."
+                    className="w-full mt-2 p-2 border border-[#C5A048] rounded-lg text-sm bg-white focus:ring-2 focus:ring-[#C5A048] outline-none resize-none h-20"
+                  />
+                )}
               </div>
 
               {/* Promo/Discount Dropdown */}
@@ -960,7 +980,10 @@ const ContentGenerator = ({ user, appId }) => {
                 <label className="block text-xs font-bold text-slate-500 uppercase mb-2">Discount / Promo</label>
                 <select 
                   value={promoMessage}
-                  onChange={(e) => setPromoMessage(e.target.value)}
+                  onChange={(e) => {
+                    setPromoMessage(e.target.value);
+                    if (e.target.value !== 'custom') setCustomPromo('');
+                  }}
                   className="w-full p-2 border border-slate-200 rounded-lg text-sm bg-slate-50 focus:ring-2 focus:ring-[#C5A048] outline-none"
                 >
                   <option value="">No promo</option>
@@ -973,7 +996,16 @@ const ContentGenerator = ({ user, appId }) => {
                   <option value="Happy Hour: $10 off after 9pm">Happy Hour: $10 off after 9pm</option>
                   <option value="Gift cards available - perfect for the holidays">Gift cards available - perfect for the holidays</option>
                   <option value="New member special - join today">New member special - join today</option>
+                  <option value="custom">Custom...</option>
                 </select>
+                {promoMessage === 'custom' && (
+                  <textarea
+                    value={customPromo}
+                    onChange={(e) => setCustomPromo(e.target.value)}
+                    placeholder="Enter your custom promo..."
+                    className="w-full mt-2 p-2 border border-[#C5A048] rounded-lg text-sm bg-white focus:ring-2 focus:ring-[#C5A048] outline-none resize-none h-20"
+                  />
+                )}
               </div>
 
               {/* Web Search Toggle */}
