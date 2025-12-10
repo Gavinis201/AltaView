@@ -536,11 +536,11 @@ const KnowledgeBase = ({ user, appId }) => {
       if (!lines[i].trim()) continue; // Skip empty lines
       const values = parseCSVLine(lines[i]);
       
-      const row = {};
-      headers.forEach((header, index) => {
+        const row = {};
+        headers.forEach((header, index) => {
         row[header] = (values[index] || '').replace(/"/g, '');
-      });
-      data.push(row);
+        });
+        data.push(row);
     }
     return data;
   };
@@ -678,8 +678,8 @@ const KnowledgeBase = ({ user, appId }) => {
             <h3 className="font-bold text-[#3D5A3D]">Knowledge Repository</h3>
             <div className="flex items-center gap-2">
               <span className="bg-[#3D5A3D]/10 text-black px-3 py-1 rounded-full text-xs font-bold">
-                {items.length} Items
-              </span>
+              {items.length} Items
+            </span>
               {items.length > 0 && (
                 <button
                   onClick={deleteAllItems}
@@ -1251,8 +1251,8 @@ const ContentGenerator = ({ user, appId }) => {
                     </div>
                   ) : (
                     <div className="bg-slate-50 p-4 rounded-lg text-black text-sm whitespace-pre-wrap border border-slate-100">
-                      {post.content}
-                    </div>
+                    {post.content}
+                  </div>
                   )}
                   
                   {/* Post Image */}
@@ -1349,20 +1349,20 @@ const ContentGenerator = ({ user, appId }) => {
                           onChange={(e) => handleImageUpload(post.id, e.target.files[0])}
                         />
                       </label>
-                      <button 
-                        onClick={() => updateStatus(post.id, 'Draft')}
+                     <button 
+                       onClick={() => updateStatus(post.id, 'Draft')}
                         className="p-2 bg-slate-100 text-slate-500 rounded-lg hover:bg-slate-200 transition-colors text-xs font-medium"
                         title="Move to Pending"
-                      >
-                        Revert
-                      </button>
-                      <button 
-                        onClick={() => deletePost(post.id)}
+                     >
+                       Revert
+                     </button>
+                    <button 
+                      onClick={() => deletePost(post.id)}
                         className="p-2 bg-red-50 text-red-600 rounded-lg hover:bg-red-100 transition-colors"
                         title="Delete"
-                      >
+                    >
                         <XCircle size={20} />
-                      </button>
+                    </button>
                     </>
                   )}
                 </div>
