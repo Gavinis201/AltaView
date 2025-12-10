@@ -487,25 +487,60 @@ const KnowledgeBase = ({ user, appId }) => {
     }
   };
 
-  // Parse CSV text into array of objects
+  const deleteAllItems = async () => {
+    if (!window.confirm('Are you sure you want to delete ALL items from the Knowledge Base? This cannot be undone.')) {
+      return;
+    }
+    try {
+      for (const item of items) {
+        await deleteDoc(doc(db, 'artifacts', appId, 'public', 'data', 'knowledge_base', item.id));
+      }
+    } catch (err) {
+      console.error(err);
+    }
+  };
+
+  // Parse CSV text into array of objects (handles quoted fields with commas)
   const parseCSV = (csvText) => {
     const lines = csvText.trim().split('\n');
     if (lines.length < 2) return [];
     
+    // Function to parse a CSV line respecting quotes
+    const parseCSVLine = (line) => {
+      const result = [];
+      let current = '';
+      let inQuotes = false;
+      
+      for (let i = 0; i < line.length; i++) {
+        const char = line[i];
+        
+        if (char === '"') {
+          inQuotes = !inQuotes;
+        } else if (char === ',' && !inQuotes) {
+          result.push(current.trim());
+          current = '';
+        } else {
+          current += char;
+        }
+      }
+      result.push(current.trim()); // Push last field
+      return result;
+    };
+    
     // Get headers from first row
-    const headers = lines[0].split(',').map(h => h.trim().toLowerCase().replace(/"/g, ''));
+    const headers = parseCSVLine(lines[0]).map(h => h.toLowerCase().replace(/"/g, ''));
     
     // Parse data rows
     const data = [];
     for (let i = 1; i < lines.length; i++) {
-      const values = lines[i].split(',').map(v => v.trim().replace(/"/g, ''));
-      if (values.length === headers.length) {
-        const row = {};
-        headers.forEach((header, index) => {
-          row[header] = values[index];
-        });
-        data.push(row);
-      }
+      if (!lines[i].trim()) continue; // Skip empty lines
+      const values = parseCSVLine(lines[i]);
+      
+      const row = {};
+      headers.forEach((header, index) => {
+        row[header] = (values[index] || '').replace(/"/g, '');
+      });
+      data.push(row);
     }
     return data;
   };
@@ -513,6 +548,9 @@ const KnowledgeBase = ({ user, appId }) => {
   const handleFileUpload = (event) => {
     const file = event.target.files[0];
     if (!file) return;
+
+    // Reset the input so the same file can be uploaded again
+    const inputElement = event.target;
 
     const reader = new FileReader();
     reader.onload = async (e) => {
@@ -573,10 +611,12 @@ const KnowledgeBase = ({ user, appId }) => {
         setStatusMsg(`✓ Processed ${processed} items successfully!`);
         setTimeout(() => setStatusMsg(''), 3000);
         setIsProcessing(false);
+        inputElement.value = ''; // Reset file input
       } catch (err) {
         console.error(err);
         setStatusMsg('Error: Invalid file format');
         setIsProcessing(false);
+        inputElement.value = ''; // Reset file input
       }
     };
     reader.readAsText(file);
@@ -636,9 +676,19 @@ const KnowledgeBase = ({ user, appId }) => {
         <div className="lg:col-span-2 bg-white p-6 rounded-xl shadow-sm min-h-[500px] border border-slate-200">
           <div className="flex justify-between items-center mb-6">
             <h3 className="font-bold text-[#3D5A3D]">Knowledge Repository</h3>
-            <span className="bg-[#3D5A3D]/10 text-black px-3 py-1 rounded-full text-xs font-bold">
-              {items.length} Items
-            </span>
+            <div className="flex items-center gap-2">
+              <span className="bg-[#3D5A3D]/10 text-black px-3 py-1 rounded-full text-xs font-bold">
+                {items.length} Items
+              </span>
+              {items.length > 0 && (
+                <button
+                  onClick={deleteAllItems}
+                  className="px-3 py-1 bg-red-50 text-red-600 rounded-full text-xs font-medium hover:bg-red-100 transition-colors"
+                >
+                  Delete All
+                </button>
+              )}
+            </div>
           </div>
           
           <div className="space-y-3 max-h-[600px] overflow-y-auto pr-2">
